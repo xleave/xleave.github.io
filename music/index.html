@@ -61,6 +61,9 @@
         // Theme toggle
         const themeToggle = document.getElementById("theme-toggle");
         if (themeToggle) {
+          const currentTheme = localStorage.getItem('theme') || 'light';
+          document.documentElement.setAttribute('data-theme', currentTheme);
+          
           themeToggle.onclick = () => {
             const element = document.documentElement;
             const currentTheme = element.getAttribute("data-theme");
@@ -151,6 +154,7 @@
 
         // Background skins choices
         const currentBg = localStorage.getItem('background-skin') || 'default';
+        document.documentElement.setAttribute('data-bg', currentBg);
         const bgBtns = document.querySelectorAll(".preset-bg-btn");
         bgBtns.forEach(btn => {
           const bg = btn.getAttribute("data-bg");
@@ -446,6 +450,18 @@
       // Connect standard transitions & immediate load triggers
       document.addEventListener("DOMContentLoaded", setupGlobalActions);
       document.addEventListener("astro:page-load", setupGlobalActions);
+
+      // Re-apply states on View Transitions page swap to prevent reset
+      document.addEventListener('astro:after-swap', () => {
+        const theme = localStorage.getItem('theme') || 'light';
+        document.documentElement.setAttribute('data-theme', theme);
+        
+        const hue = localStorage.getItem('accent-hue') || '255';
+        document.documentElement.style.setProperty('--accent-hue', hue);
+        
+        const bg = localStorage.getItem('background-skin') || 'default';
+        document.documentElement.setAttribute('data-bg', bg);
+      });
 
       // Transition Loading Progress Bar hooks
       document.addEventListener('astro:before-preparation', () => {
