@@ -9,13 +9,272 @@
         return 'light';
       })();
       document.documentElement.setAttribute('data-theme', theme);
-    </script><link rel="stylesheet" href="/_astro/about.90WC4U08.css">
+
+      const accent = typeof localStorage !== 'undefined' ? localStorage.getItem('accent-color') || 'purple' : 'purple';
+      document.documentElement.setAttribute('data-accent', accent);
+    </script><meta name="astro-view-transitions-enabled" content="true"><meta name="astro-view-transitions-fallback" content="animate"><link rel="stylesheet" href="/_astro/about.DKM9TsEq.css">
 <style>.equip-container[data-astro-cid-t7k2htjh]{max-width:var(--max-width)}.equip-layout[data-astro-cid-t7k2htjh]{display:flex;flex-direction:column;gap:48px}.equip-header[data-astro-cid-t7k2htjh]{display:flex;flex-direction:column;align-items:flex-start;gap:10px;border-bottom:1px solid var(--md-outline-variant);padding-bottom:24px}.badge-m3[data-astro-cid-t7k2htjh]{background-color:var(--md-primary-container);color:var(--md-on-primary-container);padding:3px 12px;border-radius:var(--md-radius-pill);font-size:.8rem;font-weight:700}.equip-header[data-astro-cid-t7k2htjh] h1[data-astro-cid-t7k2htjh]{font-size:2.5rem;font-weight:800}.categories-list[data-astro-cid-t7k2htjh]{display:flex;flex-direction:column;gap:48px}.category-section[data-astro-cid-t7k2htjh]{display:flex;flex-direction:column;gap:24px}.category-title-header[data-astro-cid-t7k2htjh] h2[data-astro-cid-t7k2htjh]{font-size:1.5rem;font-weight:700}.category-title-header[data-astro-cid-t7k2htjh] p[data-astro-cid-t7k2htjh]{font-size:.9rem;margin-top:2px}.equip-grid-m3[data-astro-cid-t7k2htjh]{display:grid;grid-template-columns:repeat(2,1fr);gap:20px}@media (max-width: 768px){.equip-grid-m3[data-astro-cid-t7k2htjh]{grid-template-columns:1fr}}.equip-card-m3[data-astro-cid-t7k2htjh]{display:flex;gap:18px;padding:20px;align-items:flex-start}.equip-img-m3-wrap[data-astro-cid-t7k2htjh]{width:80px;height:80px;border-radius:var(--md-radius-medium);border:1px solid var(--md-outline-variant);background-color:var(--md-surface-container);flex-shrink:0;overflow:hidden;display:flex;align-items:center;justify-content:center}.equip-img[data-astro-cid-t7k2htjh]{width:100%;height:100%;object-fit:cover}.fallback-icon[data-astro-cid-t7k2htjh]{font-size:1.8rem}.equip-info-m3[data-astro-cid-t7k2htjh]{display:flex;flex-direction:column;align-items:flex-start;gap:6px;min-width:0}.equip-title[data-astro-cid-t7k2htjh]{font-size:1.1rem;font-weight:700}.equip-spec-tag[data-astro-cid-t7k2htjh]{font-size:.72rem;background-color:var(--md-surface-container);border:1px solid var(--md-outline-variant);color:var(--md-on-surface-variant);padding:2px 8px;border-radius:4px;font-weight:600}.equip-description[data-astro-cid-t7k2htjh]{font-size:.88rem;line-height:1.4}.equip-link-btn[data-astro-cid-t7k2htjh]{font-size:.82rem;font-weight:600;color:var(--md-primary);margin-top:4px}.equip-link-btn[data-astro-cid-t7k2htjh]:after{display:none}
-</style><script type="module" src="/_astro/hoisted.Cc1ZHVb9.js"></script></head> <body data-astro-cid-sckkx6r4> <!-- Floating Pill NavBar --> <header class="navbar-wrapper anim-fade-in" data-astro-cid-sckkx6r4> <div class="navbar-pill" data-astro-cid-sckkx6r4> <a href="/" class="logo" data-astro-cid-sckkx6r4> <span class="logo-dot" data-astro-cid-sckkx6r4></span> <span class="logo-text" data-astro-cid-sckkx6r4>Y4n</span> </a> <nav class="nav-links" data-astro-cid-sckkx6r4> <a href="/" class="nav-item " data-astro-cid-sckkx6r4> 首页 </a><a href="/posts" class="nav-item " data-astro-cid-sckkx6r4> 文章 </a><a href="/essay" class="nav-item " data-astro-cid-sckkx6r4> 即刻 </a><a href="/about" class="nav-item " data-astro-cid-sckkx6r4> 关于 </a><a href="/equipment" class="nav-item active" data-astro-cid-sckkx6r4> 装备 </a><a href="/music" class="nav-item " data-astro-cid-sckkx6r4> 音乐 </a> </nav> <div class="nav-actions" data-astro-cid-sckkx6r4> <button id="theme-toggle" aria-label="Toggle Theme" class="theme-btn-pill" data-astro-cid-sckkx6r4> <!-- Sun Icon --> <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" data-astro-cid-sckkx6r4> <circle cx="12" cy="12" r="4" data-astro-cid-sckkx6r4></circle> <path d="M12 2v2" data-astro-cid-sckkx6r4></path> <path d="M12 20v2" data-astro-cid-sckkx6r4></path> <path d="M4.93 4.93l1.41 1.41" data-astro-cid-sckkx6r4></path> <path d="M17.66 17.66l1.41 1.41" data-astro-cid-sckkx6r4></path> <path d="M2 12h2" data-astro-cid-sckkx6r4></path> <path d="M20 12h2" data-astro-cid-sckkx6r4></path> <path d="M6.34 17.66l-1.41 1.41" data-astro-cid-sckkx6r4></path> <path d="M19.07 4.93l-1.41 1.41" data-astro-cid-sckkx6r4></path> </svg> <!-- Moon Icon --> <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" data-astro-cid-sckkx6r4> <path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z" data-astro-cid-sckkx6r4></path> </svg> </button> <button id="mobile-toggle" aria-label="Toggle Menu" class="mobile-btn-pill" data-astro-cid-sckkx6r4> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" data-astro-cid-sckkx6r4> <line x1="4" x2="20" y1="12" y2="12" data-astro-cid-sckkx6r4></line> <line x1="4" x2="20" y1="6" y2="6" data-astro-cid-sckkx6r4></line> <line x1="4" x2="20" y1="18" y2="18" data-astro-cid-sckkx6r4></line> </svg> </button> </div> </div> <!-- Mobile panel attached to pill --> <div id="mobile-nav" class="mobile-nav-pill" data-astro-cid-sckkx6r4> <a href="/" class="mobile-nav-item " data-astro-cid-sckkx6r4> 首页 </a><a href="/posts" class="mobile-nav-item " data-astro-cid-sckkx6r4> 文章 </a><a href="/essay" class="mobile-nav-item " data-astro-cid-sckkx6r4> 即刻 </a><a href="/about" class="mobile-nav-item " data-astro-cid-sckkx6r4> 关于 </a><a href="/equipment" class="mobile-nav-item active" data-astro-cid-sckkx6r4> 装备 </a><a href="/music" class="mobile-nav-item " data-astro-cid-sckkx6r4> 音乐 </a> </div> </header> <main class="main-content" data-astro-cid-sckkx6r4>  <div class="equip-container container section anim-fade-in" data-astro-cid-t7k2htjh> <div class="equip-layout" data-astro-cid-t7k2htjh> <!-- Header --> <header class="equip-header" data-astro-cid-t7k2htjh> <span class="badge-m3" data-astro-cid-t7k2htjh>好物</span> <h1 class="gradient-text" data-astro-cid-t7k2htjh>实物装备推荐</h1> <p class="text-secondary" data-astro-cid-t7k2htjh>一点也不客观的设备评价</p> </header> <!-- Product Categories --> <div class="categories-list" data-astro-cid-t7k2htjh> <section class="category-section" data-astro-cid-t7k2htjh> <div class="category-title-header" data-astro-cid-t7k2htjh> <h2 data-astro-cid-t7k2htjh>生产力</h2> <p class="text-secondary" data-astro-cid-t7k2htjh>提升自己生产效率的硬件设备</p> </div> <div class="equip-grid-m3" data-astro-cid-t7k2htjh> <div class="m3-card equip-card-m3" data-astro-cid-t7k2htjh> <div class="equip-img-m3-wrap" data-astro-cid-t7k2htjh> <img src="https://bu.dusays.com/2023/07/05/64a4c3b191e2e.png" alt="Rog 幻15 2021款 白" class="equip-img" loading="lazy" data-astro-cid-t7k2htjh> </div> <div class="equip-info-m3" data-astro-cid-t7k2htjh> <h3 class="equip-title" data-astro-cid-t7k2htjh>Rog 幻15 2021款 白</h3> <span class="equip-spec-tag" data-astro-cid-t7k2htjh>GPU:3070 CPU:R9-5900H 自行改装:40+3T</span> <p class="equip-description text-secondary" data-astro-cid-t7k2htjh>兼具便携和性能,但你买我不推荐,我买我真买</p> <a href="/posts/571d.html" target="_self" rel="noopener noreferrer" class="equip-link-btn" data-astro-cid-t7k2htjh> 查看评测 &rarr;
+</style><script type="module" src="/_astro/hoisted.BScVxmeO.js"></script></head> <body data-astro-cid-sckkx6r4> <!-- Floating Pill NavBar --> <header class="navbar-wrapper anim-fade-in" data-astro-cid-sckkx6r4> <div class="navbar-pill" data-astro-cid-sckkx6r4> <a href="/" class="logo" data-astro-cid-sckkx6r4> <span class="logo-dot" data-astro-cid-sckkx6r4></span> <span class="logo-text" data-astro-cid-sckkx6r4>Y4n</span> </a> <nav class="nav-links" data-astro-cid-sckkx6r4> <a href="/" class="nav-item " data-astro-cid-sckkx6r4> 首页 </a><a href="/posts" class="nav-item " data-astro-cid-sckkx6r4> 文章 </a><a href="/essay" class="nav-item " data-astro-cid-sckkx6r4> 即刻 </a><a href="/about" class="nav-item " data-astro-cid-sckkx6r4> 关于 </a><a href="/equipment" class="nav-item active" data-astro-cid-sckkx6r4> 装备 </a><a href="/music" class="nav-item " data-astro-cid-sckkx6r4> 音乐 </a> </nav> <div class="nav-actions" data-astro-cid-sckkx6r4> <!-- Accent Color Palette Trigger --> <button id="settings-toggle" aria-label="Toggle Theme Settings" class="settings-btn-pill" data-astro-cid-sckkx6r4> <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" data-astro-cid-sckkx6r4> <path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 14.7255 3.09032 17.1962 4.85857 19C5.0333 19.1747 5.09343 19.4312 5.01633 19.6644C4.85265 20.1593 4.81938 20.7303 5.02102 21.2142C5.25301 21.7708 5.7954 22 6.4 22H12Z" data-astro-cid-sckkx6r4></path> <circle cx="7.5" cy="10.5" r="1.5" fill="currentColor" data-astro-cid-sckkx6r4></circle> <circle cx="11.5" cy="7.5" r="1.5" fill="currentColor" data-astro-cid-sckkx6r4></circle> <circle cx="16.5" cy="9.5" r="1.5" fill="currentColor" data-astro-cid-sckkx6r4></circle> <circle cx="15.5" cy="14.5" r="1.5" fill="currentColor" data-astro-cid-sckkx6r4></circle> </svg> </button> <!-- Settings Dropdown --> <div id="settings-popup" class="settings-palette-popup" data-astro-cid-sckkx6r4> <span class="settings-popup-title" data-astro-cid-sckkx6r4>选择全局强调色</span> <div class="color-options-grid" data-astro-cid-sckkx6r4> <button class="color-opt-btn purple" data-color="purple" title="极光紫" data-astro-cid-sckkx6r4></button> <button class="color-opt-btn blue" data-color="blue" title="海洋蓝" data-astro-cid-sckkx6r4></button> <button class="color-opt-btn green" data-color="green" title="翡翠绿" data-astro-cid-sckkx6r4></button> <button class="color-opt-btn orange" data-color="orange" title="落日橙" data-astro-cid-sckkx6r4></button> <button class="color-opt-btn pink" data-color="pink" title="樱花粉" data-astro-cid-sckkx6r4></button> </div> </div> <button id="theme-toggle" aria-label="Toggle Theme" class="theme-btn-pill" data-astro-cid-sckkx6r4> <!-- Sun Icon --> <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" data-astro-cid-sckkx6r4> <circle cx="12" cy="12" r="4" data-astro-cid-sckkx6r4></circle> <path d="M12 2v2" data-astro-cid-sckkx6r4></path> <path d="M12 20v2" data-astro-cid-sckkx6r4></path> <path d="M4.93 4.93l1.41 1.41" data-astro-cid-sckkx6r4></path> <path d="M17.66 17.66l1.41 1.41" data-astro-cid-sckkx6r4></path> <path d="M2 12h2" data-astro-cid-sckkx6r4></path> <path d="M20 12h2" data-astro-cid-sckkx6r4></path> <path d="M6.34 17.66l-1.41 1.41" data-astro-cid-sckkx6r4></path> <path d="M19.07 4.93l-1.41 1.41" data-astro-cid-sckkx6r4></path> </svg> <!-- Moon Icon --> <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" data-astro-cid-sckkx6r4> <path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z" data-astro-cid-sckkx6r4></path> </svg> </button> <button id="mobile-toggle" aria-label="Toggle Menu" class="mobile-btn-pill" data-astro-cid-sckkx6r4> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" data-astro-cid-sckkx6r4> <line x1="4" x2="20" y1="12" y2="12" data-astro-cid-sckkx6r4></line> <line x1="4" x2="20" y1="6" y2="6" data-astro-cid-sckkx6r4></line> <line x1="4" x2="20" y1="18" y2="18" data-astro-cid-sckkx6r4></line> </svg> </button> </div> </div> <!-- Mobile panel attached to pill --> <div id="mobile-nav" class="mobile-nav-pill" data-astro-cid-sckkx6r4> <a href="/" class="mobile-nav-item " data-astro-cid-sckkx6r4> 首页 </a><a href="/posts" class="mobile-nav-item " data-astro-cid-sckkx6r4> 文章 </a><a href="/essay" class="mobile-nav-item " data-astro-cid-sckkx6r4> 即刻 </a><a href="/about" class="mobile-nav-item " data-astro-cid-sckkx6r4> 关于 </a><a href="/equipment" class="mobile-nav-item active" data-astro-cid-sckkx6r4> 装备 </a><a href="/music" class="mobile-nav-item " data-astro-cid-sckkx6r4> 音乐 </a> </div> </header> <main class="main-content" data-astro-cid-sckkx6r4>  <div class="equip-container container section anim-fade-in" data-astro-cid-t7k2htjh> <div class="equip-layout" data-astro-cid-t7k2htjh> <!-- Header --> <header class="equip-header" data-astro-cid-t7k2htjh> <span class="badge-m3" data-astro-cid-t7k2htjh>好物</span> <h1 class="gradient-text" data-astro-cid-t7k2htjh>实物装备推荐</h1> <p class="text-secondary" data-astro-cid-t7k2htjh>一点也不客观的设备评价</p> </header> <!-- Product Categories --> <div class="categories-list" data-astro-cid-t7k2htjh> <section class="category-section" data-astro-cid-t7k2htjh> <div class="category-title-header" data-astro-cid-t7k2htjh> <h2 data-astro-cid-t7k2htjh>生产力</h2> <p class="text-secondary" data-astro-cid-t7k2htjh>提升自己生产效率的硬件设备</p> </div> <div class="equip-grid-m3" data-astro-cid-t7k2htjh> <div class="m3-card equip-card-m3" data-astro-cid-t7k2htjh> <div class="equip-img-m3-wrap" data-astro-cid-t7k2htjh> <img src="https://bu.dusays.com/2023/07/05/64a4c3b191e2e.png" alt="Rog 幻15 2021款 白" class="equip-img" loading="lazy" data-astro-cid-t7k2htjh> </div> <div class="equip-info-m3" data-astro-cid-t7k2htjh> <h3 class="equip-title" data-astro-cid-t7k2htjh>Rog 幻15 2021款 白</h3> <span class="equip-spec-tag" data-astro-cid-t7k2htjh>GPU:3070 CPU:R9-5900H 自行改装:40+3T</span> <p class="equip-description text-secondary" data-astro-cid-t7k2htjh>兼具便携和性能,但你买我不推荐,我买我真买</p> <a href="/posts/571d.html" target="_self" rel="noopener noreferrer" class="equip-link-btn" data-astro-cid-t7k2htjh> 查看评测 &rarr;
 </a> </div> </div><div class="m3-card equip-card-m3" data-astro-cid-t7k2htjh> <div class="equip-img-m3-wrap" data-astro-cid-t7k2htjh> <img src="https://bu.dusays.com/2023/07/05/64a4c3b191e2e.png" alt="Samsung Galaxy Tab S8+" class="equip-img" loading="lazy" data-astro-cid-t7k2htjh> </div> <div class="equip-info-m3" data-astro-cid-t7k2htjh> <h3 class="equip-title" data-astro-cid-t7k2htjh>Samsung Galaxy Tab S8+</h3> <span class="equip-spec-tag" data-astro-cid-t7k2htjh>深空灰 / 8+256G</span> <p class="equip-description text-secondary" data-astro-cid-t7k2htjh>搭配原装键盘皮套和LAMY-EMR,手写体验无人可比,当然看看美剧,做远程开发也很好用</p> <a href="https://www.apple.com.cn/ipad-10.2/" target="_blank" rel="noopener noreferrer" class="equip-link-btn" data-astro-cid-t7k2htjh> 去看看 &rarr;
 </a> </div> </div><div class="m3-card equip-card-m3" data-astro-cid-t7k2htjh> <div class="equip-img-m3-wrap" data-astro-cid-t7k2htjh> <img src="https://bu.dusays.com/2023/07/05/64a4c3ded6319.webp" alt="Oneplus 9 Pro" class="equip-img" loading="lazy" data-astro-cid-t7k2htjh> </div> <div class="equip-info-m3" data-astro-cid-t7k2htjh> <h3 class="equip-title" data-astro-cid-t7k2htjh>Oneplus 9 Pro</h3> <span class="equip-spec-tag" data-astro-cid-t7k2htjh>绿色 / 12+256G</span> <p class="equip-description text-secondary" data-astro-cid-t7k2htjh>对这个手机我还是很喜欢的,除了888处理器被诟病,其他方面不管是保修还是质感,都是十分一流的</p> <a href="https://www.apple.com.cn/iphone-12/specs/" target="_blank" rel="noopener noreferrer" class="equip-link-btn" data-astro-cid-t7k2htjh> 去看看 &rarr;
 </a> </div> </div><div class="m3-card equip-card-m3" data-astro-cid-t7k2htjh> <div class="equip-img-m3-wrap" data-astro-cid-t7k2htjh> <img src="https://bu.dusays.com/2023/07/05/64a4c3ded6319.webp" alt="Samsung Galaxy S24U" class="equip-img" loading="lazy" data-astro-cid-t7k2htjh> </div> <div class="equip-info-m3" data-astro-cid-t7k2htjh> <h3 class="equip-title" data-astro-cid-t7k2htjh>Samsung Galaxy S24U</h3> <span class="equip-spec-tag" data-astro-cid-t7k2htjh>钛灰 / 12+256</span> <p class="equip-description text-secondary" data-astro-cid-t7k2htjh>依旧是信仰加成,我买我真买,你买不推荐,顶级的工艺和质感,一流的外观设计,永远的机皇</p> <a href="https://www.apple.com.cn/iphone-12/specs/" target="_blank" rel="noopener noreferrer" class="equip-link-btn" data-astro-cid-t7k2htjh> 去看看 &rarr;
 </a> </div> </div><div class="m3-card equip-card-m3" data-astro-cid-t7k2htjh> <div class="equip-img-m3-wrap" data-astro-cid-t7k2htjh> <img src="https://bu.dusays.com/2023/07/05/64a4c3ded6319.webp" alt="华为FREEBUDS 2 PRO" class="equip-img" loading="lazy" data-astro-cid-t7k2htjh> </div> <div class="equip-info-m3" data-astro-cid-t7k2htjh> <h3 class="equip-title" data-astro-cid-t7k2htjh>华为FREEBUDS 2 PRO</h3> <span class="equip-spec-tag" data-astro-cid-t7k2htjh>灰色</span> <p class="equip-description text-secondary" data-astro-cid-t7k2htjh>只能说好用,但是没有更多的可以评价的</p> <a href="https://www.apple.com.cn/airpods-3rd-generation/" target="_blank" rel="noopener noreferrer" class="equip-link-btn" data-astro-cid-t7k2htjh> 去看看 &rarr;
 </a> </div> </div> </div> </section><section class="category-section" data-astro-cid-t7k2htjh> <div class="category-title-header" data-astro-cid-t7k2htjh> <h2 data-astro-cid-t7k2htjh>出行</h2> <p class="text-secondary" data-astro-cid-t7k2htjh>用来出行的实物及设备</p> </div> <div class="equip-grid-m3" data-astro-cid-t7k2htjh> <div class="m3-card equip-card-m3" data-astro-cid-t7k2htjh> <div class="equip-img-m3-wrap" data-astro-cid-t7k2htjh> <img src="https://bu.dusays.com/2023/07/05/64a4c40ab698a.webp" alt="HUAWEI GT3 42mm" class="equip-img" loading="lazy" data-astro-cid-t7k2htjh> </div> <div class="equip-info-m3" data-astro-cid-t7k2htjh> <h3 class="equip-title" data-astro-cid-t7k2htjh>HUAWEI GT3 42mm</h3> <span class="equip-spec-tag" data-astro-cid-t7k2htjh>真皮表带款(白)</span> <p class="equip-description text-secondary" data-astro-cid-t7k2htjh>几乎没有缺点,安卓全系兼容,非华为系手机也能有很好的体验</p> <a href="https://www.apple.com.cn/apple-watch-series-8/" target="_blank" rel="noopener noreferrer" class="equip-link-btn" data-astro-cid-t7k2htjh> 去看看 &rarr;
 </a> </div> </div><div class="m3-card equip-card-m3" data-astro-cid-t7k2htjh> <div class="equip-img-m3-wrap" data-astro-cid-t7k2htjh> <img src="https://bu.dusays.com/2023/07/05/64a4c40ab698a.webp" alt="光影行星斜挎包" class="equip-img" loading="lazy" data-astro-cid-t7k2htjh> </div> <div class="equip-info-m3" data-astro-cid-t7k2htjh> <h3 class="equip-title" data-astro-cid-t7k2htjh>光影行星斜挎包</h3> <span class="equip-spec-tag" data-astro-cid-t7k2htjh>黑色</span> <p class="equip-description text-secondary" data-astro-cid-t7k2htjh>足够装下幻的大小,而且陪我走过很多地方</p> <a href="https://item.jd.com/100011269828.html" target="_blank" rel="noopener noreferrer" class="equip-link-btn" data-astro-cid-t7k2htjh> 去看看 &rarr;
-</a> </div> </div> </div> </section> </div> </div> </div>  </main> <footer class="footer" data-astro-cid-sckkx6r4> <div class="container footer-content" data-astro-cid-sckkx6r4> <p class="copyright" data-astro-cid-sckkx6r4>&copy; 2026 Y4n-CI. Built with Astro & Material 3.</p> <p class="footer-motto" data-astro-cid-sckkx6r4>错过了满天繁星，可以期待落日余晖。</p> </div> </footer> <!-- Script for interactive actions -->  </body> </html>  
+</a> </div> </div> </div> </section> </div> </div> </div>  </main> <footer class="footer" data-astro-cid-sckkx6r4> <div class="container footer-content" data-astro-cid-sckkx6r4> <p class="copyright" data-astro-cid-sckkx6r4>&copy; 2026 Y4n-CI. Built with Astro & Material 3.</p> <p class="footer-motto" data-astro-cid-sckkx6r4>错过了满天繁星，可以期待落日余晖。</p> </div> </footer> <!-- Global Persistent Components --> <audio id="global-audio-element" data-astro-cid-sckkx6r4 data-astro-transition-persist="astro-wm3d46p7-1"></audio> <div class="sidebar-controls" data-astro-transition-persist="sidebar-controls" data-astro-cid-sckkx6r4> <button id="sidebar-music-toggle" aria-label="Toggle Music Player" class="btn-sidebar-m3 btn-music-toggle" data-astro-cid-sckkx6r4> <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" data-astro-cid-sckkx6r4> <path d="M9 18V5l12-2v13" data-astro-cid-sckkx6r4></path> <circle cx="6" cy="18" r="3" data-astro-cid-sckkx6r4></circle> <circle cx="18" cy="16" r="3" data-astro-cid-sckkx6r4></circle> </svg> </button> <button id="sidebar-back-to-top" aria-label="Back to Top" class="btn-sidebar-m3" data-astro-cid-sckkx6r4> <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" data-astro-cid-sckkx6r4> <line x1="12" y1="19" x2="12" y2="5" data-astro-cid-sckkx6r4></line> <polyline points="5 12 12 5 19 12" data-astro-cid-sckkx6r4></polyline> </svg> </button> </div> <div id="global-mini-player" class="global-mini-player" data-astro-transition-persist="global-mini-player" data-astro-cid-sckkx6r4> <div class="mini-progress-bar" data-astro-cid-sckkx6r4> <div class="mini-progress-fill" id="mini-progress-fill" data-astro-cid-sckkx6r4></div> </div> <img src="https://npm.elemecdn.com/anzhiyu-blog-static@1.0.0/img/avatar.webp" alt="Cover" class="mini-player-cover" id="mini-player-cover" data-astro-cid-sckkx6r4> <div class="mini-player-info" data-astro-cid-sckkx6r4> <span class="mini-player-title" id="mini-player-title" data-astro-cid-sckkx6r4>未在播放</span> <span class="mini-player-artist" id="mini-player-artist" data-astro-cid-sckkx6r4>无歌曲数据</span> </div> <div class="mini-player-controls" data-astro-cid-sckkx6r4> <button id="mini-ctrl-play" aria-label="Play/Pause" class="mini-btn" data-astro-cid-sckkx6r4> <svg class="mini-icon-play" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" data-astro-cid-sckkx6r4><polygon points="5 3 19 12 5 21 5 3" data-astro-cid-sckkx6r4></polygon></svg> <svg class="mini-icon-pause" style="display: none;" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" data-astro-cid-sckkx6r4><rect x="6" y="4" width="4" height="16" data-astro-cid-sckkx6r4></rect><rect x="14" y="4" width="4" height="16" data-astro-cid-sckkx6r4></rect></svg> </button> <button id="mini-ctrl-next" aria-label="Next Song" class="mini-btn" data-astro-cid-sckkx6r4> <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" data-astro-cid-sckkx6r4><polygon points="5 4 15 12 5 20 5 4" data-astro-cid-sckkx6r4></polygon><line x1="19" x2="19" y1="5" y2="19" data-astro-cid-sckkx6r4></line></svg> </button> </div> </div> <!-- Global Client Logic --> <script>(function(){const songs = [{"name":"青花瓷","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/青花瓷/青花瓷.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002eFUFm2XYZ7z_2.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/青花瓷/青花瓷.lrc"},{"name":"稻香","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/稻香/稻香.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/稻香/稻香.lrc"},{"name":"晴天","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/晴天/晴天.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000MkMni19ClKG_3.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/晴天/晴天.lrc"},{"name":"七里香","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/七里香/七里香.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003DFRzD192KKD_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/七里香/七里香.lrc"},{"name":"花海","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/花海/花海.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/花海/花海.lrc"},{"name":"反方向的钟","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/反方向的钟/反方向的钟.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000f01724fd7TH_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/反方向的钟/反方向的钟.lrc"},{"name":"兰亭序","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/兰亭序/兰亭序.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/兰亭序/兰亭序.lrc"},{"name":"说好的辛福呢","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/说好的辛福呢/说好的辛福呢.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/说好的辛福呢/说好的幸福呢.lrc"},{"name":"等你下课 (with 杨瑞代)","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/等你下课/等你下课.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003bSL0v4bpKAx_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/等你下课/等你下课.lrc"},{"name":"我落泪情绪零碎","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/我落泪情绪零碎/我落泪情绪零碎.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000bviBl4FjTpO_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/我落泪情绪零碎/我落泪情绪零碎.lrc"},{"name":"听妈妈的话","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/听妈妈的话/听妈妈的话.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002jLGWe16Tf1H_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/听妈妈的话/听妈妈的话.lrc"},{"name":"明明就","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/明明就/明明就.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003Ow85E3pnoqi_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/明明就/明明就.lrc"},{"name":"我是如此相信","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/我是如此相信/我是如此相信.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000001hGx1Z0so1YX_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/我是如此相信/我是如此相信.lrc"},{"name":"发如雪","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/发如雪/发如雪.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M0000024bjiL2aocxT_3.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/发如雪/发如雪.lrc"},{"name":"以父之名","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/以父之名/以父之名.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000MkMni19ClKG_3.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/以父之名/以父之名.lrc"},{"name":"园游会","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/园游会/园游会.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003DFRzD192KKD_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/园游会/园游会.lrc"},{"name":"本草纲目","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/本草纲目/本草纲目.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002jLGWe16Tf1H_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/本草纲目/本草纲目.lrc"},{"name":"龙卷风","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/龙卷风/龙卷风.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000f01724fd7TH_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/龙卷风/龙卷风.lrc"}];
+
+      let currentSongIdx = 0;
+      let isPlaying = false;
+
+      const initAudio = (audio) => {
+        if (songs.length > 0 && !audio.src) {
+          audio.src = songs[0].url;
+          audio.volume = 0.7;
+        }
+      };
+
+      const setupGlobalActions = () => {
+        // Theme toggle listener (re-bind on page load)
+        const themeToggle = document.getElementById("theme-toggle");
+        if (themeToggle) {
+          themeToggle.onclick = () => {
+            const element = document.documentElement;
+            const currentTheme = element.getAttribute("data-theme");
+            const newTheme = currentTheme === "light" ? "dark" : "light";
+            element.setAttribute("data-theme", newTheme);
+            localStorage.setItem("theme", newTheme);
+            window.dispatchEvent(new CustomEvent('theme-changed', { detail: { theme: newTheme } }));
+          };
+        }
+
+        // Mobile Nav panel toggle
+        const mobileToggle = document.getElementById("mobile-toggle");
+        const mobileNav = document.getElementById("mobile-nav");
+        if (mobileToggle) {
+          mobileToggle.onclick = () => {
+            mobileNav?.classList.toggle("open");
+          };
+        }
+        document.querySelectorAll(".mobile-nav-item").forEach(link => {
+          link.onclick = () => {
+            mobileNav?.classList.remove("open");
+          };
+        });
+
+        // Settings popup panel toggle
+        const settingsToggle = document.getElementById("settings-toggle");
+        const settingsPopup = document.getElementById("settings-popup");
+        if (settingsToggle) {
+          settingsToggle.onclick = (e) => {
+            e.stopPropagation();
+            settingsPopup?.classList.toggle("open");
+          };
+        }
+        document.onclick = (e) => {
+          if (!settingsPopup?.contains(e.target) && e.target !== settingsToggle) {
+            settingsPopup?.classList.remove("open");
+          }
+        };
+
+        // Accent theme colors buttons
+        const colorBtns = document.querySelectorAll(".color-opt-btn");
+        const currentAccent = document.documentElement.getAttribute("data-accent") || "purple";
+        colorBtns.forEach(btn => {
+          const color = btn.getAttribute("data-color");
+          if (color === currentAccent) {
+            btn.classList.add("active");
+          } else {
+            btn.classList.remove("active");
+          }
+          btn.onclick = () => {
+            colorBtns.forEach(b => b.classList.remove("active"));
+            btn.classList.add("active");
+            document.documentElement.setAttribute("data-accent", color);
+            localStorage.setItem("accent-color", color);
+            window.dispatchEvent(new CustomEvent('accent-changed', { detail: { color } }));
+          };
+        });
+
+        // Header dynamic hide on scroll down, show on scroll up
+        let lastScrollY = window.scrollY;
+        const navbar = document.querySelector(".navbar-wrapper");
+        window.onscroll = () => {
+          if (!navbar) return;
+          const currentScrollY = window.scrollY;
+          // Hide header if scroll down past 100px
+          if (currentScrollY > 100 && currentScrollY > lastScrollY) {
+            navbar.classList.add("navbar-hidden");
+          } else {
+            navbar.classList.remove("navbar-hidden");
+          }
+          lastScrollY = currentScrollY;
+
+          // Back to top visibility listener
+          const backToTopBtn = document.getElementById("sidebar-back-to-top");
+          if (backToTopBtn) {
+            if (currentScrollY > 300) {
+              backToTopBtn.classList.add("visible");
+            } else {
+              backToTopBtn.classList.remove("visible");
+            }
+          }
+        };
+
+        // Sidebar controls
+        const backToTopBtn = document.getElementById("sidebar-back-to-top");
+        if (backToTopBtn && !backToTopBtn.dataset.hasListener) {
+          backToTopBtn.dataset.hasListener = "true";
+          backToTopBtn.onclick = () => {
+            window.scrollTo({ top: 0, behavior: "smooth" });
+          };
+        }
+
+        const musicToggleBtn = document.getElementById("sidebar-music-toggle");
+        const miniPlayer = document.getElementById("global-mini-player");
+        if (musicToggleBtn && !musicToggleBtn.dataset.hasListener) {
+          musicToggleBtn.dataset.hasListener = "true";
+          musicToggleBtn.onclick = () => {
+            miniPlayer?.classList.toggle("open");
+          };
+        }
+
+        // Global Audio init & event bindings
+        const audio = document.getElementById("global-audio-element");
+        if (audio) {
+          initAudio(audio);
+        }
+
+        const miniPlayBtn = document.getElementById("mini-ctrl-play");
+        const miniNextBtn = document.getElementById("mini-ctrl-next");
+        const miniCover = document.getElementById("mini-player-cover");
+        const miniTitle = document.getElementById("mini-player-title");
+        const miniArtist = document.getElementById("mini-player-artist");
+        const miniFill = document.getElementById("mini-progress-fill");
+
+        const updateMiniUI = () => {
+          if (!audio || songs.length === 0) return;
+          const song = songs[currentSongIdx];
+          if (miniTitle) miniTitle.textContent = song.name;
+          if (miniArtist) miniArtist.textContent = song.artist;
+          if (miniCover) miniCover.src = song.cover;
+
+          if (audio.paused) {
+            miniPlayBtn?.querySelector(".mini-icon-play").setAttribute("style", "display: block;");
+            miniPlayBtn?.querySelector(".mini-icon-pause").setAttribute("style", "display: none;");
+            miniCover?.classList.remove("playing");
+          } else {
+            miniPlayBtn?.querySelector(".mini-icon-play").setAttribute("style", "display: none;");
+            miniPlayBtn?.querySelector(".mini-icon-pause").setAttribute("style", "display: block;");
+            miniCover?.classList.add("playing");
+          }
+        };
+
+        const loadGlobalSong = (idx) => {
+          if (!audio || idx < 0 || idx >= songs.length) return;
+          currentSongIdx = idx;
+          const song = songs[idx];
+          audio.src = song.url;
+          updateMiniUI();
+          if (isPlaying) {
+            audio.play().catch(() => {
+              isPlaying = false;
+              updateMiniUI();
+            });
+          }
+          window.dispatchEvent(new CustomEvent('song-loaded', { detail: { index: idx } }));
+        };
+
+        if (miniPlayBtn && !miniPlayBtn.dataset.hasListener) {
+          miniPlayBtn.dataset.hasListener = "true";
+          miniPlayBtn.onclick = () => {
+            if (!audio) return;
+            if (audio.paused) {
+              audio.play().then(() => {
+                isPlaying = true;
+                updateMiniUI();
+                window.dispatchEvent(new CustomEvent('playback-changed', { detail: { playing: true } }));
+              }).catch(() => {
+                isPlaying = false;
+                updateMiniUI();
+              });
+            } else {
+              audio.pause();
+              isPlaying = false;
+              updateMiniUI();
+              window.dispatchEvent(new CustomEvent('playback-changed', { detail: { playing: false } }));
+            }
+          };
+        }
+
+        if (miniNextBtn && !miniNextBtn.dataset.hasListener) {
+          miniNextBtn.dataset.hasListener = "true";
+          miniNextBtn.onclick = () => {
+            let idx = currentSongIdx + 1;
+            if (idx >= songs.length) idx = 0;
+            isPlaying = true;
+            loadGlobalSong(idx);
+          };
+        }
+
+        if (audio && !audio.dataset.hasListener) {
+          audio.dataset.hasListener = "true";
+
+          audio.ontimeupdate = () => {
+            const cur = audio.currentTime;
+            const dur = audio.duration || 0;
+            if (dur > 0 && miniFill) {
+              miniFill.style.width = (cur / dur) * 100 + "%";
+            }
+          };
+
+          audio.onended = () => {
+            let idx = currentSongIdx + 1;
+            if (idx >= songs.length) idx = 0;
+            isPlaying = true;
+            loadGlobalSong(idx);
+          };
+
+          audio.onplay = () => {
+            isPlaying = true;
+            updateMiniUI();
+          };
+
+          audio.onpause = () => {
+            isPlaying = false;
+            updateMiniUI();
+          };
+        }
+
+        // Trigger updates once on page load
+        updateMiniUI();
+      };
+
+      // Connect standard transitions & immediate load triggers
+      document.addEventListener("DOMContentLoaded", setupGlobalActions);
+      document.addEventListener("astro:page-load", setupGlobalActions);
+
+      // Core communications from pages
+      window.addEventListener('request-song-load', (e) => {
+        isPlaying = true;
+        currentSongIdx = e.detail.index;
+        const audio = document.getElementById("global-audio-element");
+        if (audio && songs[currentSongIdx]) {
+          audio.src = songs[currentSongIdx].url;
+          const miniPlayBtn = document.getElementById("mini-ctrl-play");
+          const miniCover = document.getElementById("mini-player-cover");
+          const miniTitle = document.getElementById("mini-player-title");
+          const miniArtist = document.getElementById("mini-player-artist");
+          if (miniTitle) miniTitle.textContent = songs[currentSongIdx].name;
+          if (miniArtist) miniArtist.textContent = songs[currentSongIdx].artist;
+          if (miniCover) miniCover.src = songs[currentSongIdx].cover;
+          audio.play().catch(() => {
+            isPlaying = false;
+          });
+        }
+      });
+
+      window.addEventListener('request-playback-toggle', () => {
+        const miniPlayBtn = document.getElementById("mini-ctrl-play");
+        if (miniPlayBtn) miniPlayBtn.click();
+      });
+    })();</script> </body> </html>  
