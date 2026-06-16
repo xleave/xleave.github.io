@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Y4n-CI 个人博客</title>
+    <description>Y4n-CI 的个人博客，记录程序与生活，发现更有趣的世界。</description>
+    <link>https://xleave.github.io</link>
+    <atom:link href="https://xleave.github.io/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jun 2026 16:08:41 GMT</lastBuildDate>
+    
+    <item>
+      <title>把onedrive作为图床使用</title>
+      <link>https://xleave.github.io/posts/把onedrive作为图床使用</link>
+      <guid>https://xleave.github.io/posts/把onedrive作为图床使用</guid>
+      <pubDate>Sun, 17 Dec 2023 00:19:10 GMT</pubDate>
+      <description>点击阅读全文...</description>
+    </item>
+    <item>
+      <title>测试界面/乱改</title>
+      <link>https://xleave.github.io/posts/现行更新计划执行表</link>
+      <guid>https://xleave.github.io/posts/现行更新计划执行表</guid>
+      <pubDate>Sat, 16 Dec 2023 23:01:40 GMT</pubDate>
+      <description>点击阅读全文...</description>
+    </item>
+    <item>
+      <title>Markdown语法简述</title>
+      <link>https://xleave.github.io/posts/markdown语法简述</link>
+      <guid>https://xleave.github.io/posts/markdown语法简述</guid>
+      <pubDate>Wed, 13 Dec 2023 00:47:06 GMT</pubDate>
+      <description>点击阅读全文...</description>
+    </item>
+  </channel>
+</rss>
