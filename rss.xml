@@ -5,8 +5,36 @@
     <description>Y4n-CI 的个人博客，记录程序与生活，发现更有趣的世界。</description>
     <link>https://xleave.github.io</link>
     <atom:link href="https://xleave.github.io/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 16 Jun 2026 22:19:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 22:36:08 GMT</lastBuildDate>
     
+    <item>
+      <title>GitHub Actions 自动化部署静态博客的配置记录</title>
+      <link>https://xleave.github.io/posts/github-actions自动化部署静态博客的配置记录</link>
+      <guid>https://xleave.github.io/posts/github-actions自动化部署静态博客的配置记录</guid>
+      <pubDate>Wed, 17 Jun 2026 03:00:00 GMT</pubDate>
+      <description>记录使用 GitHub Actions 为 Astro 静态博客搭建自动化构建与部署流水线的完整配置，包括构建缓存、错误处理和触发策略。</description>
+    </item>
+    <item>
+      <title>博客配色系统的设计思路：基于 HSL 的动态主题</title>
+      <link>https://xleave.github.io/posts/博客配色系统的设计思路</link>
+      <guid>https://xleave.github.io/posts/博客配色系统的设计思路</guid>
+      <pubDate>Wed, 17 Jun 2026 02:00:00 GMT</pubDate>
+      <description>记录本站配色系统的设计思路，包括如何基于单个 HSL 色相值动态生成整套 Material Design 3 风格的颜色系统，并实现亮色、暗色、OLED 等多种主题模式。</description>
+    </item>
+    <item>
+      <title>使用 Astro 构建个人静态博客的实践</title>
+      <link>https://xleave.github.io/posts/使用astro构建个人静态博客的实践</link>
+      <guid>https://xleave.github.io/posts/使用astro构建个人静态博客的实践</guid>
+      <pubDate>Wed, 17 Jun 2026 01:00:00 GMT</pubDate>
+      <description>从零开始使用 Astro 框架搭建个人静态博客站点的实践总结，涵盖框架选型、目录结构、内容管理、部署方案等核心环节。</description>
+    </item>
+    <item>
+      <title>接入塞壬唱片云端音频的实践记录</title>
+      <link>https://xleave.github.io/posts/接入塞壬唱片云端音频的实践记录</link>
+      <guid>https://xleave.github.io/posts/接入塞壬唱片云端音频的实践记录</guid>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
+      <description>记录在个人博客中接入 Monster Siren（塞壬唱片）官方 CDN 音频资源的完整方案，包括 API 分析、CORS 跨域处理与播放器实现思路。</description>
+    </item>
     <item>
       <title>把onedrive作为图床使用</title>
       <link>https://xleave.github.io/posts/把onedrive作为图床使用</link>
