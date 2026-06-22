@@ -5,8 +5,22 @@
     <description>Y4n-CI 的个人博客，记录程序与生活，发现更有趣的世界。</description>
     <link>https://xleave.github.io</link>
     <atom:link href="https://xleave.github.io/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 22 Jun 2026 18:54:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 19:15:48 GMT</lastBuildDate>
     
+    <item>
+      <title>前端全局快捷键命令行与模态窗口背景滚动锁定的交互设计方案</title>
+      <link>https://xleave.github.io/posts/前端全局快捷键命令行与模态窗口背景滚动锁定的交互设计方案</link>
+      <guid>https://xleave.github.io/posts/前端全局快捷键命令行与模态窗口背景滚动锁定的交互设计方案</guid>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+      <description>本文记录个人博客中“全局命令行控制台 (Console)”与“搜索模态框”的交互开发细节。重点介绍全局键盘快捷键事件劫持的防重策略，以及在模态层展开时锁定背景页面滚动、防止滚动条消失引发页面抖动（Layout Shift）的工程方案。</description>
+    </item>
+    <item>
+      <title>在Astro中基于SVG绘制物理足迹地图的坐标转换与对齐实践</title>
+      <link>https://xleave.github.io/posts/在astro中基于svg绘制物理足迹地图的坐标转换与对齐实践</link>
+      <guid>https://xleave.github.io/posts/在astro中基于svg绘制物理足迹地图的坐标转换与对齐实践</guid>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+      <description>记录在Astro博客中基于SVG绘制离线物理足迹地图的实现过程，重点阐述如何通过比例变换与原点偏移，将任意地理经纬度坐标精准映射到SVG二维视口，并实现外部矢量世界地图背景的无缝对齐与主题适配。</description>
+    </item>
     <item>
       <title>GitHub Actions 自动化部署静态博客的配置记录</title>
       <link>https://xleave.github.io/posts/github-actions自动化部署静态博客的配置记录</link>
