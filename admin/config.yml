@@ -1,0 +1,53 @@
+backend:
+  name: github
+  repo: xleave/Y4n-CI       # 您的私有源码仓库地址
+  branch: main              # 主分支
+  base_url: https://decap-oauth-provider.xleave.workers.dev # 替换为您部署的 Cloudflare Worker 代理地址
+  auth_endpoint: auth       # 对应 Worker 的 /auth 路由
+
+local_backend: true         # 开启本地调试模式（当运行 npm run dev 时，访问 /admin 可以在本地零授权直接编辑文件）
+
+media_folder: "public/img"   # 图片存放目录
+public_folder: "/img"        # 图片引用的公共路径
+
+collections:
+  # 1. 文章管理 (Posts)
+  - name: "posts"
+    label: "📝 博文管理"
+    folder: "src/content/posts"
+    create: true
+    slug: "{{slug}}"
+    editor:
+      preview: false         # 禁用默认的 React 简易预览，专注于书写
+    fields:
+      - { label: "文章标题", name: "title", widget: "string" }
+      - { label: "创建日期", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss" }
+      - { label: "更新日期 (可选)", name: "updatedDate", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss", required: false }
+      - { label: "文章描述", name: "description", widget: "text" }
+      - { label: "封面图 (可选)", name: "cover", widget: "image", required: false }
+      - { label: "封面说明 (可选)", name: "coverCaption", widget: "string", required: false }
+      - { label: "是否作为草稿", name: "draft", widget: "boolean", default: false }
+      - { label: "分类", name: "categories", widget: "list", default: ["技术"] }
+      - { label: "标签", name: "tags", widget: "list" }
+      - { label: "专题系列 (可选)", name: "series", widget: "string", required: false }
+      - { label: "专题顺序 (可选)", name: "seriesOrder", widget: "number", value_type: "int", required: false }
+      - { label: "内容正文", name: "body", widget: "markdown" }
+
+  # 2. 项目库管理 (Projects)
+  - name: "projects"
+    label: "💡 项目库管理"
+    folder: "src/content/projects"
+    create: true
+    slug: "{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - { label: "项目名称", name: "title", widget: "string" }
+      - { label: "项目描述", name: "description", widget: "text" }
+      - { label: "起始日期", name: "startDate", widget: "date", format: "YYYY-MM-DD" }
+      - { label: "结束日期 (可选)", name: "endDate", widget: "date", format: "YYYY-MM-DD", required: false }
+      - { label: "项目封面", name: "cover", widget: "image" }
+      - { label: "GitHub 仓库链接 (可选)", name: "github", widget: "string", required: false }
+      - { label: "当前状态", name: "status", widget: "select", options: ["active", "maintenance", "archived"] }
+      - { label: "关联文章 Slug (可选)", name: "relatedPosts", widget: "list", required: false }
+      - { label: "内容正文", name: "body", widget: "markdown" }

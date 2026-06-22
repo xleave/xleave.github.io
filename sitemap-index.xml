@@ -2,289 +2,301 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://xleave.github.io/about/</loc>
-    <lastmod>2026-06-22T14:44:05.325Z</lastmod>
+    <lastmod>2026-06-22T16:20:39.951Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/admin/</loc>
+    <lastmod>2026-06-22T16:20:39.307Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/categories/</loc>
-    <lastmod>2026-06-22T14:44:05.338Z</lastmod>
+    <lastmod>2026-06-22T16:20:39.965Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/categories/工具/</loc>
-    <lastmod>2026-06-22T14:44:05.335Z</lastmod>
+    <lastmod>2026-06-22T16:20:39.960Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/categories/技术/</loc>
-    <lastmod>2026-06-22T14:44:05.333Z</lastmod>
+    <lastmod>2026-06-22T16:20:39.959Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/colophon/</loc>
-    <lastmod>2026-06-22T14:44:05.340Z</lastmod>
+    <lastmod>2026-06-22T16:20:39.969Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/equipment/</loc>
-    <lastmod>2026-06-22T14:44:05.345Z</lastmod>
+    <lastmod>2026-06-22T16:20:39.973Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/essay/</loc>
-    <lastmod>2026-06-22T14:44:05.354Z</lastmod>
+    <lastmod>2026-06-22T16:20:39.980Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/footprint/</loc>
+    <lastmod>2026-06-22T16:20:39.986Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/gallery/</loc>
-    <lastmod>2026-06-22T14:44:05.357Z</lastmod>
+    <lastmod>2026-06-22T16:20:39.989Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/</loc>
-    <lastmod>2026-06-22T14:44:05.369Z</lastmod>
+    <lastmod>2026-06-22T16:20:39.999Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/posts/github-actions自动化部署静态博客的配置记录/</loc>
-    <lastmod>2026-06-22T14:44:06.255Z</lastmod>
+    <lastmod>2026-06-22T16:20:40.902Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/posts/</loc>
-    <lastmod>2026-06-22T14:44:05.514Z</lastmod>
+    <lastmod>2026-06-22T16:20:40.152Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/posts/markdown语法简述/</loc>
-    <lastmod>2026-06-22T14:44:06.300Z</lastmod>
+    <lastmod>2026-06-22T16:20:40.947Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/posts/使用astro构建个人静态博客的实践/</loc>
-    <lastmod>2026-06-22T14:44:06.340Z</lastmod>
+    <lastmod>2026-06-22T16:20:40.988Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/posts/博客配色系统的设计思路/</loc>
-    <lastmod>2026-06-22T14:44:06.383Z</lastmod>
+    <lastmod>2026-06-22T16:20:41.031Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/posts/把onedrive作为图床使用/</loc>
-    <lastmod>2026-06-22T14:44:06.425Z</lastmod>
+    <lastmod>2026-06-22T16:20:41.072Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/posts/接入塞壬唱片云端音频的实践记录/</loc>
-    <lastmod>2026-06-22T14:44:06.466Z</lastmod>
+    <lastmod>2026-06-22T16:20:41.113Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/posts/现行更新计划执行表/</loc>
-    <lastmod>2026-06-22T14:44:06.501Z</lastmod>
+    <lastmod>2026-06-22T16:20:41.150Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/projects/franka-manipulation/</loc>
-    <lastmod>2026-06-22T14:44:05.525Z</lastmod>
+    <lastmod>2026-06-22T16:20:40.163Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/projects/</loc>
-    <lastmod>2026-06-22T14:44:05.559Z</lastmod>
+    <lastmod>2026-06-22T16:20:40.188Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/projects/mobile-robot-navigation/</loc>
-    <lastmod>2026-06-22T14:44:05.529Z</lastmod>
+    <lastmod>2026-06-22T16:20:40.165Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/projects/orchard-yield-counting/</loc>
-    <lastmod>2026-06-22T14:44:05.534Z</lastmod>
+    <lastmod>2026-06-22T16:20:40.168Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/projects/p-c-coupling-robot/</loc>
-    <lastmod>2026-06-22T14:44:05.543Z</lastmod>
+    <lastmod>2026-06-22T16:20:40.171Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/projects/pacer-fellowship-intern/</loc>
-    <lastmod>2026-06-22T14:44:05.548Z</lastmod>
+    <lastmod>2026-06-22T16:20:40.174Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/projects/pacer-sensor-monitoring/</loc>
-    <lastmod>2026-06-22T14:44:05.551Z</lastmod>
+    <lastmod>2026-06-22T16:20:40.177Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/projects/phoenix-care-assistant/</loc>
-    <lastmod>2026-06-22T14:44:05.555Z</lastmod>
+    <lastmod>2026-06-22T16:20:40.183Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/series/</loc>
-    <lastmod>2026-06-22T14:44:05.573Z</lastmod>
+    <lastmod>2026-06-22T16:20:40.206Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/series/markdown学习手册/</loc>
-    <lastmod>2026-06-22T14:44:05.569Z</lastmod>
+    <lastmod>2026-06-22T16:20:40.203Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/api/</loc>
-    <lastmod>2026-06-22T14:44:05.612Z</lastmod>
+    <lastmod>2026-06-22T16:20:40.240Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/astro/</loc>
-    <lastmod>2026-06-22T14:44:05.592Z</lastmod>
+    <lastmod>2026-06-22T16:20:40.219Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/calender/</loc>
-    <lastmod>2026-06-22T14:44:05.616Z</lastmod>
+    <lastmod>2026-06-22T16:20:40.242Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/ci-cd/</loc>
-    <lastmod>2026-06-22T14:44:05.579Z</lastmod>
+    <lastmod>2026-06-22T16:20:40.211Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/cors/</loc>
-    <lastmod>2026-06-22T14:44:05.610Z</lastmod>
+    <lastmod>2026-06-22T16:20:40.239Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/css/</loc>
-    <lastmod>2026-06-22T14:44:05.598Z</lastmod>
+    <lastmod>2026-06-22T16:20:40.227Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/github actions/</loc>
-    <lastmod>2026-06-22T14:44:05.578Z</lastmod>
+    <lastmod>2026-06-22T16:20:40.211Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/github pages/</loc>
-    <lastmod>2026-06-22T14:44:05.587Z</lastmod>
+    <lastmod>2026-06-22T16:20:40.214Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/</loc>
-    <lastmod>2026-06-22T14:44:05.620Z</lastmod>
+    <lastmod>2026-06-22T16:20:40.245Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/markdown/</loc>
-    <lastmod>2026-06-22T14:44:05.589Z</lastmod>
+    <lastmod>2026-06-22T16:20:40.215Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/material design/</loc>
-    <lastmod>2026-06-22T14:44:05.605Z</lastmod>
+    <lastmod>2026-06-22T16:20:40.235Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/obsidian/</loc>
-    <lastmod>2026-06-22T14:44:05.591Z</lastmod>
+    <lastmod>2026-06-22T16:20:40.217Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/主题/</loc>
-    <lastmod>2026-06-22T14:44:05.603Z</lastmod>
+    <lastmod>2026-06-22T16:20:40.233Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/前端/</loc>
-    <lastmod>2026-06-22T14:44:05.597Z</lastmod>
+    <lastmod>2026-06-22T16:20:40.224Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/博客/</loc>
-    <lastmod>2026-06-22T14:44:05.594Z</lastmod>
+    <lastmod>2026-06-22T16:20:40.220Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/图床/</loc>
-    <lastmod>2026-06-22T14:44:05.606Z</lastmod>
+    <lastmod>2026-06-22T16:20:40.236Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/设计/</loc>
-    <lastmod>2026-06-22T14:44:05.600Z</lastmod>
+    <lastmod>2026-06-22T16:20:40.231Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/部署/</loc>
-    <lastmod>2026-06-22T14:44:05.581Z</lastmod>
+    <lastmod>2026-06-22T16:20:40.212Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/静态网站/</loc>
-    <lastmod>2026-06-22T14:44:05.595Z</lastmod>
+    <lastmod>2026-06-22T16:20:40.221Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/音乐/</loc>
-    <lastmod>2026-06-22T14:44:05.608Z</lastmod>
+    <lastmod>2026-06-22T16:20:40.238Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/timeline/</loc>
-    <lastmod>2026-06-22T14:44:05.625Z</lastmod>
+    <lastmod>2026-06-22T16:20:40.247Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
