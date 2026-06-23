@@ -5,8 +5,22 @@
     <description>Y4n-CI 的个人博客，记录程序与生活，发现更有趣的世界。</description>
     <link>https://xleave.github.io</link>
     <atom:link href="https://xleave.github.io/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 23 Jun 2026 00:51:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 01:18:54 GMT</lastBuildDate>
     
+    <item>
+      <title>高速感知幻觉：速度与灰度对机器人尺寸估计影响的基准研究</title>
+      <link>https://xleave.github.io/posts/高速感知幻觉_速度与灰度对机器人尺寸估计影响的基准研究</link>
+      <guid>https://xleave.github.io/posts/高速感知幻觉_速度与灰度对机器人尺寸估计影响的基准研究</guid>
+      <pubDate>Tue, 23 Jun 2026 03:00:00 GMT</pubDate>
+      <description>本文定量研究了移动机器人在运动过程中速度与目标反射对比度（灰度）对红外传感器测量精度的交互耦合影响，利用 Pololu 3Pi+ 移动平台揭示了低对比度目标在高车速下的信号衰减和“感知崩溃”现象。</description>
+    </item>
+    <item>
+      <title>基于 PI05 VLA 机器人策略的 Franka 实时控制中 RT 内核的必要性解析</title>
+      <link>https://xleave.github.io/posts/基于pi05_vla机器人策略的franka实时控制中rt内核的必要性解析</link>
+      <guid>https://xleave.github.io/posts/基于pi05_vla机器人策略的franka实时控制中rt内核的必要性解析</guid>
+      <pubDate>Tue, 23 Jun 2026 02:00:00 GMT</pubDate>
+      <description>探讨在结合 PI05 VLA 视觉语言动作模型与 Franka FCI 机械臂低级控制层时，为什么控制工作站必须部署 PREEMPT_RT 实时内核，分析时延抖动对控制回路稳定性、动作平滑度及实验结果一致性的深层技术影响。</description>
+    </item>
     <item>
       <title>前端全局快捷键命令行与模态窗口背景滚动锁定的交互设计方案</title>
       <link>https://xleave.github.io/posts/前端全局快捷键命令行与模态窗口背景滚动锁定的交互设计方案</link>
