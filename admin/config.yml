@@ -2,7 +2,7 @@ backend:
   name: github
   repo: xleave/Y4n-CI       # 您的私有源码仓库地址
   branch: main              # 主分支
-  base_url: https://decap-oauth-provider.xleave.workers.dev # 替换为您部署的 Cloudflare Worker 代理地址
+  base_url: https://decap-oauth-provider.lumo6454.workers.dev # 替换为您部署的 Cloudflare Worker 代理地址
   auth_endpoint: auth       # 对应 Worker 的 /auth 路由
 
 local_backend: true         # 开启本地调试模式（当运行 npm run dev 时，访问 /admin 可以在本地零授权直接编辑文件）
