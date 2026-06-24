@@ -13,7 +13,7 @@ public_folder: "/img"        # 图片引用的公共路径
 collections:
   # 1. 文章管理 (Posts)
   - name: "posts"
-    label: "📝 博文管理"
+    label: "博文管理"
     folder: "src/content/posts"
     create: true
     slug: "{{slug}}"
@@ -35,7 +35,7 @@ collections:
 
   # 2. 项目库管理 (Projects)
   - name: "projects"
-    label: "💡 项目库管理"
+    label: "项目库管理"
     folder: "src/content/projects"
     create: true
     slug: "{{slug}}"
@@ -51,3 +51,50 @@ collections:
       - { label: "当前状态", name: "status", widget: "select", options: ["active", "maintenance", "archived"] }
       - { label: "关联文章 Slug (可选)", name: "relatedPosts", widget: "list", required: false }
       - { label: "内容正文", name: "body", widget: "markdown" }
+
+  # 3. 随手与即刻管理 (Essays)
+  - name: "essays"
+    label: "随手与即刻随笔"
+    delete: false
+    files:
+      - name: "essay"
+        label: "即刻随笔数据"
+        file: "src/data/essay.yml"
+        fields:
+          - { label: "主标题", name: "title", widget: "string" }
+          - { label: "副标题", name: "subTitle", widget: "string" }
+          - { label: "小提示", name: "tips", widget: "string" }
+          - { label: "按钮文字", name: "buttonText", widget: "string" }
+          - { label: "按钮链接", name: "buttonLink", widget: "string" }
+          - { label: "显示上限", name: "limit", widget: "number", value_type: "int" }
+          - { label: "是否展示在主页", name: "home_essay", widget: "boolean" }
+          - { label: "顶部背景图 (可选)", name: "top_background", widget: "image", required: false }
+          - name: "essay_list"
+            label: "随手与即刻列表"
+            widget: "list"
+            fields:
+              - { label: "内容正文", name: "content", widget: "text" }
+              - { label: "发表日期", name: "date", widget: "string", hint: "格式如: 2026/06/15" }
+              - { label: "发布地址 (可选)", name: "address", widget: "string", required: false }
+              - { label: "客户端来源 (可选)", name: "from", widget: "string", required: false }
+              - { label: "心情状态 (可选)", name: "mood", widget: "string", required: false }
+              - { label: "关联文章路由 (可选)", name: "link", widget: "string", required: false }
+              - { label: "代码片段 (可选)", name: "code", widget: "text", required: false }
+              - name: "music"
+                label: "关联音乐 (可选)"
+                widget: "object"
+                required: false
+                fields:
+                  - { label: "歌名", name: "name", widget: "string", required: false }
+                  - { label: "歌手", name: "artist", widget: "string", required: false }
+              - { label: "配图列表 (可选)", name: "image", widget: "list", field: { widget: "image" }, required: false }
+              - name: "video"
+                label: "关联视频列表 (可选)"
+                widget: "list"
+                required: false
+                fields:
+                  - { label: "视频链接 (mp4)", name: "src", widget: "string" }
+                  - { label: "视频标题", name: "title", widget: "string" }
+                  - { label: "视频封面图 (可选)", name: "poster", widget: "image", required: false }
+                  - { label: "B站视频号 (可选)", name: "bilibili", widget: "string", required: false }
+                  - { label: "YouTube 链接 (可选)", name: "youtube", widget: "string", required: false }
