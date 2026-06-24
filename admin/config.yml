@@ -87,7 +87,14 @@ collections:
                 fields:
                   - { label: "歌名", name: "name", widget: "string", required: false }
                   - { label: "歌手", name: "artist", widget: "string", required: false }
-              - { label: "配图列表 (可选)", name: "image", widget: "list", field: { name: "img", widget: "image" }, required: false }
+              - label: "配图列表 (可选)"
+                name: "image"
+                widget: "list"
+                required: false
+                field:
+                  label: "图片"
+                  name: "img"
+                  widget: "image"
               - name: "video"
                 label: "关联视频列表 (可选)"
                 widget: "list"
