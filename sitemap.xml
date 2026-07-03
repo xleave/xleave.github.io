@@ -2,415 +2,1153 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://xleave.github.io/about/</loc>
-    <lastmod>2026-07-02T21:11:48.483Z</lastmod>
+    <lastmod>2026-07-03T03:18:37.959Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/admin/editor/</loc>
-    <lastmod>2026-07-02T21:11:48.492Z</lastmod>
+    <lastmod>2026-07-03T03:18:37.966Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/admin/essays/</loc>
-    <lastmod>2026-07-02T21:11:48.495Z</lastmod>
+    <lastmod>2026-07-03T03:18:37.971Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/admin/</loc>
-    <lastmod>2026-07-02T21:11:48.498Z</lastmod>
+    <lastmod>2026-07-03T03:18:37.978Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/admin/posts/</loc>
-    <lastmod>2026-07-02T21:11:48.502Z</lastmod>
+    <lastmod>2026-07-03T03:18:37.982Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/admin/settings/</loc>
-    <lastmod>2026-07-02T21:11:48.505Z</lastmod>
+    <lastmod>2026-07-03T03:18:37.985Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/categories/</loc>
-    <lastmod>2026-07-02T21:11:48.528Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.019Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/categories/工具/</loc>
-    <lastmod>2026-07-02T21:11:48.524Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.014Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/categories/技术/</loc>
-    <lastmod>2026-07-02T21:11:48.523Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.010Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/colophon/</loc>
-    <lastmod>2026-07-02T21:11:48.531Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.023Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/equipment/</loc>
-    <lastmod>2026-07-02T21:11:48.535Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.028Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/essay/</loc>
-    <lastmod>2026-07-02T21:11:48.542Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.035Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/footprint/</loc>
-    <lastmod>2026-07-02T21:11:48.553Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.050Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/gallery/</loc>
-    <lastmod>2026-07-02T21:11:48.556Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.054Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/</loc>
-    <lastmod>2026-07-02T21:11:48.563Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.068Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://xleave.github.io/posts/actionchunking机制解析为什么vla模型输出动作序列而非单步指令/</loc>
+    <lastmod>2026-07-03T03:18:40.001Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/posts/droid双机docker部署中的环境兼容性与容器化工程问题/</loc>
+    <lastmod>2026-07-03T03:18:40.052Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/posts/frankaemika控制架构解析从fci到polymetis的软件栈/</loc>
+    <lastmod>2026-07-03T03:18:40.096Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://xleave.github.io/posts/github-actions自动化部署静态博客的配置记录/</loc>
-    <lastmod>2026-07-02T21:11:50.368Z</lastmod>
+    <lastmod>2026-07-03T03:18:40.139Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/posts/</loc>
-    <lastmod>2026-07-02T21:11:48.732Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.433Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/posts/languageconditionedpolicy语言指令如何驱动机器人行为/</loc>
+    <lastmod>2026-07-03T03:18:40.183Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/posts/markdown语法简述/</loc>
-    <lastmod>2026-07-02T21:11:50.413Z</lastmod>
+    <lastmod>2026-07-03T03:18:40.228Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/posts/rrt_rrt_prm采样式运动规划算法的原理与对比/</loc>
+    <lastmod>2026-07-03T03:18:40.270Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/posts/sac算法详解最大熵强化学习框架/</loc>
+    <lastmod>2026-07-03T03:18:40.316Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/posts/simtorealgap的来源分类与缓解策略总览/</loc>
+    <lastmod>2026-07-03T03:18:40.360Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/posts/teacherstudent蒸馏框架在sim2real策略迁移中的应用/</loc>
+    <lastmod>2026-07-03T03:18:40.405Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/posts/vla推理延迟与机械臂控制频率的矛盾异步推理架构设计/</loc>
+    <lastmod>2026-07-03T03:18:40.454Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/posts/vla模型中的flowmatching与diffusionpolicy对比/</loc>
+    <lastmod>2026-07-03T03:18:40.499Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/posts/vla模型架构演进从rt2到π0的设计范式变迁/</loc>
+    <lastmod>2026-07-03T03:18:40.545Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/posts/从仿真到真机isaacgym_mujoco_sapien仿真器的选型对比/</loc>
+    <lastmod>2026-07-03T03:18:40.594Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/posts/使用astro构建个人静态博客的实践/</loc>
-    <lastmod>2026-07-02T21:11:50.453Z</lastmod>
+    <lastmod>2026-07-03T03:18:40.635Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/posts/具身智能中的观测空间设计rgb深度点云与触觉的工程权衡/</loc>
+    <lastmod>2026-07-03T03:18:40.678Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/posts/前端全局快捷键命令行与模态窗口背景滚动锁定的交互设计方案/</loc>
-    <lastmod>2026-07-02T21:11:50.506Z</lastmod>
+    <lastmod>2026-07-03T03:18:40.731Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/posts/博客配色系统的设计思路/</loc>
-    <lastmod>2026-07-02T21:11:50.548Z</lastmod>
+    <lastmod>2026-07-03T03:18:40.774Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/posts/在astro中基于svg绘制物理足迹地图的坐标转换与对齐实践/</loc>
-    <lastmod>2026-07-02T21:11:50.592Z</lastmod>
+    <lastmod>2026-07-03T03:18:40.819Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/posts/域随机化domainrandomization的原理参数设计与局限性/</loc>
+    <lastmod>2026-07-03T03:18:40.863Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/posts/基于pi05_vla机器人策略的franka实时控制中rt内核的必要性解析/</loc>
-    <lastmod>2026-07-02T21:11:50.637Z</lastmod>
+    <lastmod>2026-07-03T03:18:40.909Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/posts/多任务强化学习中的参数共享与任务干扰问题/</loc>
+    <lastmod>2026-07-03T03:18:40.950Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/posts/多模态tokenization策略视觉语言与动作如何统一编码/</loc>
+    <lastmod>2026-07-03T03:18:40.994Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/posts/开放词汇物体检测在机器人抓取中的应用与局限/</loc>
+    <lastmod>2026-07-03T03:18:41.038Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/posts/把onedrive作为图床使用/</loc>
-    <lastmod>2026-07-02T21:11:50.678Z</lastmod>
+    <lastmod>2026-07-03T03:18:41.080Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/posts/接入塞壬唱片云端音频的实践记录/</loc>
-    <lastmod>2026-07-02T21:11:50.719Z</lastmod>
+    <lastmod>2026-07-03T03:18:41.122Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/posts/机器人操作任务中的奖励工程从稀疏奖励到密集奖励塑形/</loc>
+    <lastmod>2026-07-03T03:18:41.171Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/posts/机械臂逆运动学求解解析法数值法与学习方法的工程权衡/</loc>
+    <lastmod>2026-07-03T03:18:41.218Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/posts/模仿学习三范式对比行为克隆dagger与逆强化学习/</loc>
+    <lastmod>2026-07-03T03:18:41.260Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/posts/离线强化学习概述从bcq到decisiontransformer的演进/</loc>
+    <lastmod>2026-07-03T03:18:41.305Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/posts/系统辨识systemidentification在sim2real中的作用与实践/</loc>
+    <lastmod>2026-07-03T03:18:41.349Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/posts/经典寻路算法的原理性能对比与工程选型/</loc>
+    <lastmod>2026-07-03T03:18:41.392Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/posts/课程学习curriculumlearning在机器人技能训练中的策略设计/</loc>
+    <lastmod>2026-07-03T03:18:41.434Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/posts/轨迹优化方法概述chomp_trajopt与ilqr的对比/</loc>
+    <lastmod>2026-07-03T03:18:41.477Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/posts/近端策略优化算法ppo的原理与关键设计解析/</loc>
+    <lastmod>2026-07-03T03:18:41.522Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/posts/长时域任务规划llm作为机器人高级规划器的可行性分析/</loc>
+    <lastmod>2026-07-03T03:18:41.566Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/posts/阻抗控制与力位混合控制在精密操作中的原理与选型/</loc>
+    <lastmod>2026-07-03T03:18:41.608Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/posts/高速感知幻觉_速度与灰度对机器人尺寸估计影响的基准研究/</loc>
-    <lastmod>2026-07-02T21:11:50.763Z</lastmod>
+    <lastmod>2026-07-03T03:18:41.654Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/projects/franka-manipulation/</loc>
-    <lastmod>2026-07-02T21:11:48.741Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.445Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/projects/</loc>
-    <lastmod>2026-07-02T21:11:48.763Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.494Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/projects/mobile-robot-navigation/</loc>
-    <lastmod>2026-07-02T21:11:48.743Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.452Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/projects/orchard-yield-counting/</loc>
-    <lastmod>2026-07-02T21:11:48.746Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.457Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/projects/p-c-coupling-robot/</loc>
-    <lastmod>2026-07-02T21:11:48.749Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.461Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/projects/pacer-fellowship-intern/</loc>
-    <lastmod>2026-07-02T21:11:48.752Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.465Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/projects/pacer-sensor-monitoring/</loc>
-    <lastmod>2026-07-02T21:11:48.756Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.476Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/projects/phoenix-care-assistant/</loc>
-    <lastmod>2026-07-02T21:11:48.759Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.487Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/series/</loc>
-    <lastmod>2026-07-02T21:11:48.771Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.508Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/series/markdown学习手册/</loc>
-    <lastmod>2026-07-02T21:11:48.768Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.503Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/action chunking/</loc>
+    <lastmod>2026-07-03T03:18:38.523Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/actor-critic/</loc>
+    <lastmod>2026-07-03T03:18:38.576Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/api/</loc>
-    <lastmod>2026-07-02T21:11:48.830Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.661Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/astro/</loc>
-    <lastmod>2026-07-02T21:11:48.798Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.612Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/a星算法/</loc>
+    <lastmod>2026-07-03T03:18:38.688Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/bcq/</loc>
+    <lastmod>2026-07-03T03:18:38.678Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/chomp/</loc>
+    <lastmod>2026-07-03T03:18:38.702Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/ci-cd/</loc>
-    <lastmod>2026-07-02T21:11:48.785Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.547Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/clip/</loc>
+    <lastmod>2026-07-03T03:18:38.656Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/cors/</loc>
-    <lastmod>2026-07-02T21:11:48.829Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.660Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/cql/</loc>
+    <lastmod>2026-07-03T03:18:38.680Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/css/</loc>
-    <lastmod>2026-07-02T21:11:48.810Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.625Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/dagger/</loc>
+    <lastmod>2026-07-03T03:18:38.673Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/decision transformer/</loc>
+    <lastmod>2026-07-03T03:18:38.681Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/diffusion policy/</loc>
+    <lastmod>2026-07-03T03:18:38.595Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/docker/</loc>
+    <lastmod>2026-07-03T03:18:38.529Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/droid/</loc>
+    <lastmod>2026-07-03T03:18:38.528Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/fci/</loc>
+    <lastmod>2026-07-03T03:18:38.537Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/flow matching/</loc>
+    <lastmod>2026-07-03T03:18:38.594Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/franka/</loc>
+    <lastmod>2026-07-03T03:18:38.532Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/github actions/</loc>
-    <lastmod>2026-07-02T21:11:48.782Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.545Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/github pages/</loc>
-    <lastmod>2026-07-02T21:11:48.793Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.550Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/ilqr/</loc>
+    <lastmod>2026-07-03T03:18:38.705Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/</loc>
-    <lastmod>2026-07-02T21:11:48.840Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.739Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/isaac gym/</loc>
+    <lastmod>2026-07-03T03:18:38.607Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/javascript/</loc>
-    <lastmod>2026-07-02T21:11:48.808Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.624Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/language-conditioned/</loc>
+    <lastmod>2026-07-03T03:18:38.552Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/linux rt/</loc>
-    <lastmod>2026-07-02T21:11:48.824Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.640Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/llm/</loc>
+    <lastmod>2026-07-03T03:18:38.716Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/markdown/</loc>
-    <lastmod>2026-07-02T21:11:48.795Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.558Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/material design/</loc>
-    <lastmod>2026-07-02T21:11:48.815Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.631Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/mujoco/</loc>
+    <lastmod>2026-07-03T03:18:38.609Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/obsidian/</loc>
-    <lastmod>2026-07-02T21:11:48.797Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.560Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/openpi/</loc>
-    <lastmod>2026-07-02T21:11:48.825Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.531Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/polymetis/</loc>
+    <lastmod>2026-07-03T03:18:38.534Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/ppo/</loc>
+    <lastmod>2026-07-03T03:18:38.707Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/prm/</loc>
+    <lastmod>2026-07-03T03:18:38.564Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/rgb-d/</loc>
+    <lastmod>2026-07-03T03:18:38.619Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/rrt/</loc>
+    <lastmod>2026-07-03T03:18:38.563Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/rt-2/</loc>
+    <lastmod>2026-07-03T03:18:38.601Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/sac/</loc>
+    <lastmod>2026-07-03T03:18:38.569Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/sapien/</loc>
+    <lastmod>2026-07-03T03:18:38.610Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/sim2real/</loc>
+    <lastmod>2026-07-03T03:18:38.578Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/svg/</loc>
-    <lastmod>2026-07-02T21:11:48.816Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.632Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/teacher-student/</loc>
+    <lastmod>2026-07-03T03:18:38.582Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/tokenization/</loc>
+    <lastmod>2026-07-03T03:18:38.645Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/trajopt/</loc>
+    <lastmod>2026-07-03T03:18:38.703Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/transformer/</loc>
+    <lastmod>2026-07-03T03:18:38.646Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/vla/</loc>
-    <lastmod>2026-07-02T21:11:48.819Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.522Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/π0/</loc>
+    <lastmod>2026-07-03T03:18:38.603Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/主题/</loc>
-    <lastmod>2026-07-02T21:11:48.814Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.629Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/交互设计/</loc>
-    <lastmod>2026-07-02T21:11:48.811Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.626Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/任务规划/</loc>
+    <lastmod>2026-07-03T03:18:38.718Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/仿真/</loc>
+    <lastmod>2026-07-03T03:18:38.579Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/仿真器/</loc>
+    <lastmod>2026-07-03T03:18:38.606Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/传感器校准/</loc>
-    <lastmod>2026-07-02T21:11:48.831Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.729Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/位置控制/</loc>
+    <lastmod>2026-07-03T03:18:38.726Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/信号衰减/</loc>
-    <lastmod>2026-07-02T21:11:48.837Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.734Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/具身感知/</loc>
-    <lastmod>2026-07-02T21:11:48.834Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.732Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/具身智能/</loc>
+    <lastmod>2026-07-03T03:18:38.525Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/分层控制/</loc>
+    <lastmod>2026-07-03T03:18:38.720Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/前端/</loc>
-    <lastmod>2026-07-02T21:11:48.807Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.616Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/力控制/</loc>
+    <lastmod>2026-07-03T03:18:38.725Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/博客/</loc>
-    <lastmod>2026-07-02T21:11:48.801Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.613Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/参数估计/</loc>
+    <lastmod>2026-07-03T03:18:38.684Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/参数共享/</loc>
+    <lastmod>2026-07-03T03:18:38.642Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/图床/</loc>
-    <lastmod>2026-07-02T21:11:48.826Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.657Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/图搜索/</loc>
+    <lastmod>2026-07-03T03:18:38.691Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/坐标投影/</loc>
-    <lastmod>2026-07-02T21:11:48.817Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.634Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/域迁移/</loc>
+    <lastmod>2026-07-03T03:18:38.581Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/域随机化/</loc>
+    <lastmod>2026-07-03T03:18:38.635Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/多任务学习/</loc>
+    <lastmod>2026-07-03T03:18:38.641Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/多模态/</loc>
+    <lastmod>2026-07-03T03:18:38.556Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/大模型/</loc>
+    <lastmod>2026-07-03T03:18:38.605Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/奖励塑形/</loc>
+    <lastmod>2026-07-03T03:18:38.664Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/奖励工程/</loc>
+    <lastmod>2026-07-03T03:18:38.663Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/实时内核/</loc>
-    <lastmod>2026-07-02T21:11:48.822Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.638Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/实时控制/</loc>
+    <lastmod>2026-07-03T03:18:38.592Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/容器化/</loc>
+    <lastmod>2026-07-03T03:18:38.535Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/寻路/</loc>
+    <lastmod>2026-07-03T03:18:38.687Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/开放词汇/</loc>
+    <lastmod>2026-07-03T03:18:38.649Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/异步架构/</loc>
+    <lastmod>2026-07-03T03:18:38.591Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/强化学习/</loc>
+    <lastmod>2026-07-03T03:18:38.571Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/技能训练/</loc>
+    <lastmod>2026-07-03T03:18:38.697Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/控制/</loc>
+    <lastmod>2026-07-03T03:18:38.526Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/推理延迟/</loc>
+    <lastmod>2026-07-03T03:18:38.589Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/最大熵/</loc>
+    <lastmod>2026-07-03T03:18:38.573Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/机器人/</loc>
-    <lastmod>2026-07-02T21:11:48.821Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.566Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/机器人抓取/</loc>
+    <lastmod>2026-07-03T03:18:38.654Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/机器人控制/</loc>
+    <lastmod>2026-07-03T03:18:38.538Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/机器学习/</loc>
+    <lastmod>2026-07-03T03:18:38.714Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/机械臂/</loc>
+    <lastmod>2026-07-03T03:18:38.668Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/柔顺控制/</loc>
+    <lastmod>2026-07-03T03:18:38.728Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/梯度冲突/</loc>
+    <lastmod>2026-07-03T03:18:38.644Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/模仿学习/</loc>
+    <lastmod>2026-07-03T03:18:38.671Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/泛化/</loc>
+    <lastmod>2026-07-03T03:18:38.637Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/游戏开发/</loc>
+    <lastmod>2026-07-03T03:18:38.693Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/点云/</loc>
+    <lastmod>2026-07-03T03:18:38.621Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/物体检测/</loc>
+    <lastmod>2026-07-03T03:18:38.648Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/生成模型/</loc>
+    <lastmod>2026-07-03T03:18:38.596Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/离线强化学习/</loc>
+    <lastmod>2026-07-03T03:18:38.677Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/策略学习/</loc>
+    <lastmod>2026-07-03T03:18:38.554Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/策略梯度/</loc>
+    <lastmod>2026-07-03T03:18:38.708Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/策略迁移/</loc>
+    <lastmod>2026-07-03T03:18:38.585Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/算法/</loc>
+    <lastmod>2026-07-03T03:18:38.685Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/系统辨识/</loc>
+    <lastmod>2026-07-03T03:18:38.683Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/自适应/</loc>
+    <lastmod>2026-07-03T03:18:38.699Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/蒸馏/</loc>
+    <lastmod>2026-07-03T03:18:38.584Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/行为克隆/</loc>
+    <lastmod>2026-07-03T03:18:38.672Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/观测空间/</loc>
+    <lastmod>2026-07-03T03:18:38.618Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/触觉传感/</loc>
+    <lastmod>2026-07-03T03:18:38.622Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/设计/</loc>
-    <lastmod>2026-07-02T21:11:48.812Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.628Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/课程学习/</loc>
+    <lastmod>2026-07-03T03:18:38.695Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/轨迹优化/</loc>
+    <lastmod>2026-07-03T03:18:38.700Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/软件栈/</loc>
+    <lastmod>2026-07-03T03:18:38.540Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/运动学/</loc>
+    <lastmod>2026-07-03T03:18:38.669Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/运动控制/</loc>
-    <lastmod>2026-07-02T21:11:48.832Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.731Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/运动规划/</loc>
+    <lastmod>2026-07-03T03:18:38.561Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/连续控制/</loc>
+    <lastmod>2026-07-03T03:18:38.574Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/逆强化学习/</loc>
+    <lastmod>2026-07-03T03:18:38.675Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/逆运动学/</loc>
+    <lastmod>2026-07-03T03:18:38.666Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/部署/</loc>
-    <lastmod>2026-07-02T21:11:48.790Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.549Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/采样规划/</loc>
+    <lastmod>2026-07-03T03:18:38.568Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/长时域/</loc>
+    <lastmod>2026-07-03T03:18:38.722Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xleave.github.io/tags/阻抗控制/</loc>
+    <lastmod>2026-07-03T03:18:38.723Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/静态网站/</loc>
-    <lastmod>2026-07-02T21:11:48.802Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.615Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/tags/音乐/</loc>
-    <lastmod>2026-07-02T21:11:48.827Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.659Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xleave.github.io/timeline/</loc>
-    <lastmod>2026-07-02T21:11:48.848Z</lastmod>
+    <lastmod>2026-07-03T03:18:38.744Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
