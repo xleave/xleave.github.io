@@ -5,7 +5,7 @@
     <description>Y4n-CI 的个人博客，记录程序与生活，发现更有趣的世界。</description>
     <link>https://xleave.github.io</link>
     <atom:link href="https://xleave.github.io/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 03 Jul 2026 03:26:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 21:18:27 GMT</lastBuildDate>
     
     <item>
       <title>轨迹优化方法概述：CHOMP、TrajOpt 与 iLQR 的对比</title>
