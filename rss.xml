@@ -5,8 +5,15 @@
     <description>Y4n-CI 的个人博客，记录程序与生活，发现更有趣的世界。</description>
     <link>https://xleave.github.io</link>
     <atom:link href="https://xleave.github.io/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 06 Jul 2026 21:35:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 02:27:13 GMT</lastBuildDate>
     
+    <item>
+      <title>具身智能与交互式机器人学工具箱集成演示</title>
+      <link>https://xleave.github.io/posts/interactive-robotics-and-tools-demo</link>
+      <guid>https://xleave.github.io/posts/interactive-robotics-and-tools-demo</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+      <description>演示在个人博客中深度集成的六大交互式组件：代码视差滚动解读、学术闪阅、在线串口调试、机械臂逆运动学、寻路算法规划及 3D 旋转矩阵可视化。</description>
+    </item>
     <item>
       <title>轨迹优化方法概述：CHOMP、TrajOpt 与 iLQR 的对比</title>
       <link>https://xleave.github.io/posts/%E8%BD%A8%E8%BF%B9%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95%E6%A6%82%E8%BF%B0chomp_trajopt%E4%B8%8Eilqr%E7%9A%84%E5%AF%B9%E6%AF%94</link>
