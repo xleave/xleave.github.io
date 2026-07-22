@@ -5,8 +5,15 @@
     <description>Y4n-CI 的个人博客，记录程序与生活，发现更有趣的世界。</description>
     <link>https://xleave.github.io</link>
     <atom:link href="https://xleave.github.io/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 22 Jul 2026 21:23:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 21:29:25 GMT</lastBuildDate>
     
+    <item>
+      <title>忒修斯之船与记忆重构</title>
+      <link>https://xleave.github.io/posts/%E5%BF%92%E4%BF%AE%E6%96%AF%E4%B9%8B%E8%88%B9%E4%B8%8E%E8%AE%B0%E5%BF%86%E9%87%8D%E6%9E%84</link>
+      <guid>https://xleave.github.io/posts/%E5%BF%92%E4%BF%AE%E6%96%AF%E4%B9%8B%E8%88%B9%E4%B8%8E%E8%AE%B0%E5%BF%86%E9%87%8D%E6%9E%84</guid>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
+      <description>一篇致敬《S. / 忒修斯之船》的交互式散文。通过多重颜色的手写风旁注与批注，探讨实体硬件迭代、数字记忆重构以及身份认同在时间长河中的流动与重塑。</description>
+    </item>
     <item>
       <title>手绘注释系统 Neat Annotations 集成与演示</title>
       <link>https://xleave.github.io/posts/%E6%89%8B%E7%BB%98%E6%B3%A8%E9%87%8A%E7%B3%BB%E7%BB%9Fneatannotations%E9%9B%86%E6%88%90%E4%B8%8E%E6%BC%94%E7%A4%BA</link>
