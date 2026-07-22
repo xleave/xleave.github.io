@@ -5,7 +5,7 @@
     <description>Y4n-CI 的个人博客，记录程序与生活，发现更有趣的世界。</description>
     <link>https://xleave.github.io</link>
     <atom:link href="https://xleave.github.io/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 22 Jul 2026 21:29:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 21:32:41 GMT</lastBuildDate>
     
     <item>
       <title>忒修斯之船与记忆重构</title>
@@ -20,6 +20,13 @@
       <guid>https://xleave.github.io/posts/%E6%89%8B%E7%BB%98%E6%B3%A8%E9%87%8A%E7%B3%BB%E7%BB%9Fneatannotations%E9%9B%86%E6%88%90%E4%B8%8E%E6%BC%94%E7%A4%BA</guid>
       <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
       <description>集成纯 CSS 手绘注释库 neat-annotations，零 JavaScript 依赖，为技术博客提供箭头标注、荧光高亮、多方向批注等手写风格交互注释能力。</description>
+    </item>
+    <item>
+      <title>方海</title>
+      <link>https://xleave.github.io/posts/%E6%96%B9%E6%B5%B7</link>
+      <guid>https://xleave.github.io/posts/%E6%96%B9%E6%B5%B7</guid>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
+      <description>城是方的，堤岸也是方的。在无边水面与黑色玄匣之间，记忆如潮汐般重复改写，记录着一次又一次关于生存、遗忘与轮回的无声防守。</description>
     </item>
     <item>
       <title>具身智能与交互式机器人学工具箱集成演示</title>
