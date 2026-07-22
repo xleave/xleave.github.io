@@ -5,7 +5,7 @@
     <description>Y4n-CI 的个人博客，记录程序与生活，发现更有趣的世界。</description>
     <link>https://xleave.github.io</link>
     <atom:link href="https://xleave.github.io/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 19 Jul 2026 19:07:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 20:55:47 GMT</lastBuildDate>
     
     <item>
       <title>具身智能与交互式机器人学工具箱集成演示</title>
@@ -267,18 +267,18 @@
       <description>记录在个人博客中接入 Monster Siren（塞壬唱片）官方 CDN 音频资源的完整方案，包括 API 分析、CORS 跨域处理与播放器实现思路。</description>
     </item>
     <item>
-      <title>把onedrive作为图床使用</title>
+      <title>把 OneDrive 作为图床使用</title>
       <link>https://xleave.github.io/posts/%E6%8A%8Aonedrive%E4%BD%9C%E4%B8%BA%E5%9B%BE%E5%BA%8A%E4%BD%BF%E7%94%A8</link>
       <guid>https://xleave.github.io/posts/%E6%8A%8Aonedrive%E4%BD%9C%E4%B8%BA%E5%9B%BE%E5%BA%8A%E4%BD%BF%E7%94%A8</guid>
       <pubDate>Sun, 17 Dec 2023 00:19:10 GMT</pubDate>
-      <description>点击阅读全文...</description>
+      <description>介绍如何利用 OneDrive 的嵌入和共享功能，为 Markdown 文档提供图片托管服务。</description>
     </item>
     <item>
       <title>Markdown语法简述</title>
       <link>https://xleave.github.io/posts/markdown%E8%AF%AD%E6%B3%95%E7%AE%80%E8%BF%B0</link>
       <guid>https://xleave.github.io/posts/markdown%E8%AF%AD%E6%B3%95%E7%AE%80%E8%BF%B0</guid>
       <pubDate>Wed, 13 Dec 2023 00:47:06 GMT</pubDate>
-      <description>点击阅读全文...</description>
+      <description>Markdown 核心语法速查手册，涵盖标题、列表、代码块、表格、数学公式（LaTeX）、Mermaid 图表等常用写作元素。</description>
     </item>
   </channel>
 </rss>
