@@ -1,4 +1,4 @@
-import"./hoisted.6XgOEhjn.js";import"./ViewTransitions.astro_astro_type_script_index_0_lang.BScVxmeO.js";/**
+import"./hoisted.DcaE9iKF.js";import"./ViewTransitions.astro_astro_type_script_index_0_lang.BScVxmeO.js";/**
  * @license
  * Copyright 2010-2026 Three.js Authors
  * SPDX-License-Identifier: MIT
