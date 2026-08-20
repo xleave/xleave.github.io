@@ -5,8 +5,43 @@
     <description>Y4n-CI 的个人博客，记录程序与生活，发现更有趣的世界。</description>
     <link>https://xleave.github.io</link>
     <atom:link href="https://xleave.github.io/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 17 Aug 2026 08:03:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 08:46:48 GMT</lastBuildDate>
     
+    <item>
+      <title>VLA 系统安全：从约束学习到运行时屏蔽的分层防护体系</title>
+      <link>https://xleave.github.io/posts/vla%E7%B3%BB%E7%BB%9F%E5%AE%89%E5%85%A8%E4%BB%8E%E7%BA%A6%E6%9D%9F%E5%AD%A6%E4%B9%A0%E5%88%B0%E8%BF%90%E8%A1%8C%E6%97%B6%E5%B1%8F%E8%94%BD%E7%9A%84%E5%88%86%E5%B1%82%E9%98%B2%E6%8A%A4%E4%BD%93%E7%B3%BB</link>
+      <guid>https://xleave.github.io/posts/vla%E7%B3%BB%E7%BB%9F%E5%AE%89%E5%85%A8%E4%BB%8E%E7%BA%A6%E6%9D%9F%E5%AD%A6%E4%B9%A0%E5%88%B0%E8%BF%90%E8%A1%8C%E6%97%B6%E5%B1%8F%E8%94%BD%E7%9A%84%E5%88%86%E5%B1%82%E9%98%B2%E6%8A%A4%E4%BD%93%E7%B3%BB</guid>
+      <pubDate>Sat, 15 Aug 2026 15:30:00 GMT</pubDate>
+      <description>系统分析 VLA 安全体系的三层防护：训练时的约束学习（SafeVLA）、推理时的即插即用安全层（VLSA）、控制理论层的屏蔽与 barrier function（CBF-QP, Shielding），并总结 82 篇论文的八条核心研究主线。</description>
+    </item>
+    <item>
+      <title>失败不是终点：VLA 后训练、在线适应与运行时智能的新范式</title>
+      <link>https://xleave.github.io/posts/%E5%A4%B1%E8%B4%A5%E4%B8%8D%E6%98%AF%E7%BB%88%E7%82%B9vla%E5%90%8E%E8%AE%AD%E7%BB%83%E5%9C%A8%E7%BA%BF%E9%80%82%E5%BA%94%E4%B8%8E%E8%BF%90%E8%A1%8C%E6%97%B6%E6%99%BA%E8%83%BD%E7%9A%84%E6%96%B0%E8%8C%83%E5%BC%8F</link>
+      <guid>https://xleave.github.io/posts/%E5%A4%B1%E8%B4%A5%E4%B8%8D%E6%98%AF%E7%BB%88%E7%82%B9vla%E5%90%8E%E8%AE%AD%E7%BB%83%E5%9C%A8%E7%BA%BF%E9%80%82%E5%BA%94%E4%B8%8E%E8%BF%90%E8%A1%8C%E6%97%B6%E6%99%BA%E8%83%BD%E7%9A%84%E6%96%B0%E8%8C%83%E5%BC%8F</guid>
+      <pubDate>Mon, 10 Aug 2026 13:00:00 GMT</pubDate>
+      <description>梳理 VLA 从&quot;训练完毕直接部署&quot;走向&quot;持续适应与运行时智能&quot;的 13 篇核心论文：包括失败轨迹复用、RL 外部转向、运行时验证和模态自适应。</description>
+    </item>
+    <item>
+      <title>触觉融合的五条路线：从传感器数据到接触智能的完整图谱</title>
+      <link>https://xleave.github.io/posts/%E8%A7%A6%E8%A7%89%E8%9E%8D%E5%90%88%E7%9A%84%E4%BA%94%E6%9D%A1%E8%B7%AF%E7%BA%BF%E4%BB%8E%E4%BC%A0%E6%84%9F%E5%99%A8%E6%95%B0%E6%8D%AE%E5%88%B0%E6%8E%A5%E8%A7%A6%E6%99%BA%E8%83%BD%E7%9A%84%E5%AE%8C%E6%95%B4%E5%9B%BE%E8%B0%B1</link>
+      <guid>https://xleave.github.io/posts/%E8%A7%A6%E8%A7%89%E8%9E%8D%E5%90%88%E7%9A%84%E4%BA%94%E6%9D%A1%E8%B7%AF%E7%BA%BF%E4%BB%8E%E4%BC%A0%E6%84%9F%E5%99%A8%E6%95%B0%E6%8D%AE%E5%88%B0%E6%8E%A5%E8%A7%A6%E6%99%BA%E8%83%BD%E7%9A%84%E5%AE%8C%E6%95%B4%E5%9B%BE%E8%B0%B1</guid>
+      <pubDate>Wed, 05 Aug 2026 10:45:00 GMT</pubDate>
+      <description>系统梳理 VLA 中触觉融合的 13 篇核心论文，归纳出五种不同的融合路线——动作侧融合、高频独立专家、骨干调制、深度多模态融合和表示对齐监督，并分析各路线的适用场景。</description>
+    </item>
+    <item>
+      <title>记忆与状态：VLA 中历史信息的需求边界与本体感觉陷阱</title>
+      <link>https://xleave.github.io/posts/%E8%AE%B0%E5%BF%86%E4%B8%8E%E7%8A%B6%E6%80%81vla%E4%B8%AD%E5%8E%86%E5%8F%B2%E4%BF%A1%E6%81%AF%E7%9A%84%E9%9C%80%E6%B1%82%E8%BE%B9%E7%95%8C%E4%B8%8E%E6%9C%AC%E4%BD%93%E6%84%9F%E8%A7%89%E9%99%B7%E9%98%B1</link>
+      <guid>https://xleave.github.io/posts/%E8%AE%B0%E5%BF%86%E4%B8%8E%E7%8A%B6%E6%80%81vla%E4%B8%AD%E5%8E%86%E5%8F%B2%E4%BF%A1%E6%81%AF%E7%9A%84%E9%9C%80%E6%B1%82%E8%BE%B9%E7%95%8C%E4%B8%8E%E6%9C%AC%E4%BD%93%E6%84%9F%E8%A7%89%E9%99%B7%E9%98%B1</guid>
+      <pubDate>Sat, 01 Aug 2026 16:20:00 GMT</pubDate>
+      <description>分析 VLA 中的记忆与状态问题：BridgeVLA++ 的时空记忆、FM-VLA 的力历史、State-free Policy 的本体感觉陷阱，以及 CamVLA 的视角解耦，系统回答&quot;当前观测何时不够用&quot;。</description>
+    </item>
+    <item>
+      <title>时间对齐全景：从动作分块到自适应执行承诺与运行时验证</title>
+      <link>https://xleave.github.io/posts/%E6%97%B6%E9%97%B4%E5%AF%B9%E9%BD%90%E5%85%A8%E6%99%AF%E4%BB%8E%E5%8A%A8%E4%BD%9C%E5%88%86%E5%9D%97%E5%88%B0%E8%87%AA%E9%80%82%E5%BA%94%E6%89%A7%E8%A1%8C%E6%89%BF%E8%AF%BA%E4%B8%8E%E8%BF%90%E8%A1%8C%E6%97%B6%E9%AA%8C%E8%AF%81</link>
+      <guid>https://xleave.github.io/posts/%E6%97%B6%E9%97%B4%E5%AF%B9%E9%BD%90%E5%85%A8%E6%99%AF%E4%BB%8E%E5%8A%A8%E4%BD%9C%E5%88%86%E5%9D%97%E5%88%B0%E8%87%AA%E9%80%82%E5%BA%94%E6%89%A7%E8%A1%8C%E6%89%BF%E8%AF%BA%E4%B8%8E%E8%BF%90%E8%A1%8C%E6%97%B6%E9%AA%8C%E8%AF%81</guid>
+      <pubDate>Sun, 26 Jul 2026 11:00:00 GMT</pubDate>
+      <description>梳理 VLA 部署中的时间对齐全景：从 Action Chunking 的理论解释、推理延迟的异步补偿、自适应执行长度，到 CheckVLA 的运行时验证，12 篇论文构成完整的时间主线。</description>
+    </item>
     <item>
       <title>手绘注释系统 Neat Annotations 集成与演示</title>
       <link>https://xleave.github.io/posts/%E6%89%8B%E7%BB%98%E6%B3%A8%E9%87%8A%E7%B3%BB%E7%BB%9Fneatannotations%E9%9B%86%E6%88%90%E4%B8%8E%E6%BC%94%E7%A4%BA</link>
@@ -20,6 +55,20 @@
       <guid>https://xleave.github.io/posts/%E6%96%B9%E6%B5%B7</guid>
       <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
       <description>城是方的，堤岸也是方的。在无边水面与黑色玄匣之间，记忆如潮汐般重复改写，记录着一次又一次关于生存、遗忘与轮回的无声防守。</description>
+    </item>
+    <item>
+      <title>动作表示的结构之争：从 Token 化到行为抽象与运动模式解耦</title>
+      <link>https://xleave.github.io/posts/%E5%8A%A8%E4%BD%9C%E8%A1%A8%E7%A4%BA%E7%9A%84%E7%BB%93%E6%9E%84%E4%B9%8B%E4%BA%89%E4%BB%8Etoken%E5%8C%96%E5%88%B0%E8%A1%8C%E4%B8%BA%E6%8A%BD%E8%B1%A1%E4%B8%8E%E8%BF%90%E5%8A%A8%E6%A8%A1%E5%BC%8F%E8%A7%A3%E8%80%A6</link>
+      <guid>https://xleave.github.io/posts/%E5%8A%A8%E4%BD%9C%E8%A1%A8%E7%A4%BA%E7%9A%84%E7%BB%93%E6%9E%84%E4%B9%8B%E4%BA%89%E4%BB%8Etoken%E5%8C%96%E5%88%B0%E8%A1%8C%E4%B8%BA%E6%8A%BD%E8%B1%A1%E4%B8%8E%E8%BF%90%E5%8A%A8%E6%A8%A1%E5%BC%8F%E8%A7%A3%E8%80%A6</guid>
+      <pubDate>Mon, 20 Jul 2026 14:15:00 GMT</pubDate>
+      <description>深入分析 VLA 中动作表示的最新研究：SALT 的语义对齐、BehaviorVLA 的行为先验、MoMo 的运动模式解耦、INTACT 的意图表示，以及 G0.5 统一自回归与 KinRT 运动学路由。</description>
+    </item>
+    <item>
+      <title>VLM 到 VLA 的知识继承：冻结、微调与表示保留的实证研究</title>
+      <link>https://xleave.github.io/posts/vlm%E5%88%B0vla%E7%9A%84%E7%9F%A5%E8%AF%86%E7%BB%A7%E6%89%BF%E5%86%BB%E7%BB%93%E5%BE%AE%E8%B0%83%E4%B8%8E%E8%A1%A8%E7%A4%BA%E4%BF%9D%E7%95%99%E7%9A%84%E5%AE%9E%E8%AF%81%E7%A0%94%E7%A9%B6</link>
+      <guid>https://xleave.github.io/posts/vlm%E5%88%B0vla%E7%9A%84%E7%9F%A5%E8%AF%86%E7%BB%A7%E6%89%BF%E5%86%BB%E7%BB%93%E5%BE%AE%E8%B0%83%E4%B8%8E%E8%A1%A8%E7%A4%BA%E4%BF%9D%E7%95%99%E7%9A%84%E5%AE%9E%E8%AF%81%E7%A0%94%E7%A9%B6</guid>
+      <pubDate>Wed, 15 Jul 2026 09:30:00 GMT</pubDate>
+      <description>系统梳理 VLM 向 VLA 迁移过程中的知识继承策略，从 LoRA 初始化、表示退化到 Prior-Expert 架构，分析如何在保留通识先验的同时实现动作适配。</description>
     </item>
     <item>
       <title>具身智能与交互式机器人学工具箱集成演示</title>
