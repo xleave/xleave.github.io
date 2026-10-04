@@ -5,12 +5,12 @@
     <description>Y4n-CI 的个人博客，记录程序与生活，发现更有趣的世界。</description>
     <link>https://xleave.github.io</link>
     <atom:link href="https://xleave.github.io/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 04 Oct 2026 16:24:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 16:27:06 GMT</lastBuildDate>
     
     <item>
       <title>触觉介入 VLA 的时机之争：IROS 2026 触觉融合路线的一个思考</title>
-      <link>https://xleave.github.io/posts/%E8%A7%A6%E8%A7%89%E4%BB%8B%E5%85%A5vla%E7%9A%84%E6%97%B6%E6%9C%BA%E4%B9%8B%E4%BA%89iros2026%E8%A7%A6%E8%A7%89%E8%9E%8D%E5%90%88%E8%B7%AF%E7%BA%BF%E7%9A%84%E4%B8%80%E4%B8%AA%E6%80%9D%E8%80%83</link>
-      <guid>https://xleave.github.io/posts/%E8%A7%A6%E8%A7%89%E4%BB%8B%E5%85%A5vla%E7%9A%84%E6%97%B6%E6%9C%BA%E4%B9%8B%E4%BA%89iros2026%E8%A7%A6%E8%A7%89%E8%9E%8D%E5%90%88%E8%B7%AF%E7%BA%BF%E7%9A%84%E4%B8%80%E4%B8%AA%E6%80%9D%E8%80%83</guid>
+      <link>https://xleave.github.io/posts/%E8%A7%A6%E8%A7%89%E4%BB%8B%E5%85%A5vla%E7%9A%84%E6%97%B6%E6%9C%BA%E4%B9%8B%E4%BA%89%E4%BB%8Eiros2026%E7%8E%B0%E5%9C%BA%E7%9C%8B%E8%A7%A6%E8%A7%89%E8%9E%8D%E5%90%88%E8%B7%AF%E7%BA%BF%E7%9A%84%E4%B8%80%E4%B8%AA%E6%80%9D%E8%80%83</link>
+      <guid>https://xleave.github.io/posts/%E8%A7%A6%E8%A7%89%E4%BB%8B%E5%85%A5vla%E7%9A%84%E6%97%B6%E6%9C%BA%E4%B9%8B%E4%BA%89%E4%BB%8Eiros2026%E7%8E%B0%E5%9C%BA%E7%9C%8B%E8%A7%A6%E8%A7%89%E8%9E%8D%E5%90%88%E8%B7%AF%E7%BA%BF%E7%9A%84%E4%B8%80%E4%B8%AA%E6%80%9D%E8%80%83</guid>
       <pubDate>Mon, 05 Oct 2026 00:30:00 GMT</pubDate>
       <description>从 HapticVLA、Uni-VLaT、Visible Touch、HapTile 四项工作出发，讨论触觉应该在 VLA 的哪个位置介入——是推理时的输入模态、训练时的监督信号，还是数据采集端的先验，以及这个选择如何反过来决定触觉信号的形状。</description>
     </item>
