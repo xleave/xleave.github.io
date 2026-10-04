@@ -1,4 +1,4 @@
-const CACHE_NAME = 'y4n-ci-blog-muu1l8t4';
+const CACHE_NAME = 'y4n-ci-blog-muu2e1cp';
 const ASSETS_TO_CACHE = [
   '/',
   '/index.html',
