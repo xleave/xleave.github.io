@@ -5,7 +5,7 @@
     <description>Y4n-CI 的个人博客，记录程序与生活，发现更有趣的世界。</description>
     <link>https://xleave.github.io</link>
     <atom:link href="https://xleave.github.io/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 04 Oct 2026 16:57:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 15:37:25 GMT</lastBuildDate>
     
     <item>
       <title>新机器环境配置踩坑记录：TLS 吊销、代理、Smart App Control 与构建链</title>
